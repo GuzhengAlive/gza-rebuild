@@ -2,10 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "3-up" .Params}}
+{{ partial "short-text" .Params.blurb}}
 
-{{ range $element := .Params.sections }}
-  {{ partial "basic-sections" $element }}
-{{end}}
+{{ partial "2-up" .Params }}
+
+{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+
+{{ partial "blog" . }}
 
 {{ end }}
