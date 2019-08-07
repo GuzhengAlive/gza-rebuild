@@ -129,7 +129,7 @@ overflow: hidden;
 
 .lightbox-target img {
 margin: auto;
-position: absolute;
+position: fixed;
 top: 0;
 left:0;
 right:0;
@@ -148,7 +148,7 @@ transition: .5s ease-in-out;
 /*Added by Guzheng Alive for  caption formatting*/
 .lightbox-target p {
   margin: auto;
-  position: absolute;
+  position: fixed;
   top: 10px;
 }
 
@@ -162,7 +162,7 @@ box-sizing: border-box;
 background: white;
 color: black;
 text-decoration: none;
-position: absolute;
+position: fixed;
 top: -80px;
 right: 0;
 -webkit-transition: .5s ease-in-out;
@@ -179,7 +179,7 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: absolute;
+position: fixed;
 left: 26px;
 top:10px;
 -webkit-transform:rotate(45deg);
@@ -196,7 +196,7 @@ display: block;
 height: 30px;
 width: 1px;
 background: black;
-position: absolute;
+position: fixed;
 left: 26px;
 top:10px;
 -webkit-transform:rotate(-45deg);
