@@ -13,10 +13,10 @@
 </div>
 
     {{if .lightbox}}
-<div class="mhn2-ns mb3 flex m8 center">
+<div class="mhn2-ns mb3 flex">
           {{ range .lightbox }}
             <a class="lightbox db mb3" href="#{{.target}}">
-               <img src="{{.image}}" class=""/>
+               <img src="{{.image}}" class="w-90"/>
             </a>
             <div class="lightbox-target" id="{{.target}}">
                <img src="{{.image}}"/>
