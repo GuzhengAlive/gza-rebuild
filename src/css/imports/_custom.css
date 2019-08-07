@@ -148,8 +148,10 @@ transition: .5s ease-in-out;
 /*Added by Guzheng Alive for  caption formatting*/
 .lightbox-target p {
   margin: auto;
-  position: fixed;
-  top: 10px;
+  position: absolute;
+  bottom: 10px;
+  background: rgba(0,0,0,.7);
+  color: white;
 }
 
 /* Styles the close link, adds the slide down transition */
