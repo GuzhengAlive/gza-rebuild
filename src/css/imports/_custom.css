@@ -113,8 +113,9 @@ table.GeneratedTable thead {
 
 .lightbox-target {
 position: fixed;
-top: -100%;
-width: 100%;
+/*top: -100%;*/
+left: -25%;
+width: 125%;
 background: rgba(0,0,0,.7);
 width: 100%;
 opacity: 0;
