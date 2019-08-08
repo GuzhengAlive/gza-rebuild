@@ -154,6 +154,7 @@ transition: .5s ease-in-out;
   bottom: 10px;
   background: rgba(0,0,0,.7);
   color: white;
+  z-index: 2;
 }
 
 /* Styles the close link, adds the slide down transition */
