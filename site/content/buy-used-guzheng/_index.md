@@ -137,7 +137,7 @@ sections:
         image: /img/worn backboard.jpg
         target: wornbackboard
       - caption: >-
-          Edges of tuning pis show some where; slight copper color visible
+          Edges of tuning pins show some wear; slight copper color visible
           underneath nickel plating. Normal, should not affect sound.
         image: /img/worn tuning pins.jpg
         target: worntuningpin
