@@ -19,9 +19,11 @@
                <img src="{{.image}}" class="w-90"/>
             </a>
             <div class="lightbox-target" id="{{.target}}">
-               <img src="{{.image}}"/>
+<div><!--Extra div allows caption position relative in appearance to image-->
+							 <img src="{{.image}}"/>
                <p>{{.caption}}</p>
-               <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+</div>
+							 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
              </div>
           {{ end }}
   </div>
