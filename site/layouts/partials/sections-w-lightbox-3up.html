@@ -18,13 +18,11 @@
             <a class="lightbox db mb3" href="#{{.target}}">
                <img src="{{.image}}" class="w-90"/>
             </a>
-<div>
-					  <div class="lightbox-target" id="{{.target}}">
+            <div class="lightbox-target" id="{{.target}}">
                <img src="{{.image}}"/>
-							 </div>
-							 <p>{{.caption}}</p> <!-- Placing caption here allows caption to align with lightbox image bottom. -->
-						 </div>
-						 <a class="lightbox-close" href="#{{$anchortarget}}"></a> <!--Placing close here prevents weird caption placement. -->
+               <p>{{.caption}}</p>
+               <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+             </div>
           {{ end }}
   </div>
     {{end}}
