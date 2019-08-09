@@ -207,6 +207,53 @@ sections:
 
       Factor that effort and cost in to your price negotiations.
   - heading: Damage and Cracks
+    lightbox:
+      - caption: >-
+          The instrument was dropped, breaking off its tail ornament. While
+          reattaching is simple, making it look good is not. Visual, does not
+          impact sound.
+        image: /img/broken tail ornament.jpg
+        target: BrokenTail
+      - caption: >-
+          Crack running the length of the backboard, likely due to
+          improperly-treated wood either before or after assembly. Visual and
+          structural; expected to affect sound quality.
+        image: /img/cracked backboard.jpg
+        target: CrackedBack
+      - caption: >-
+          Indentation pushed into the soundboard; likely caused by an object of
+          excessive hardness dropped or pressed into it. Indentation does not go
+          completely through the soundboard. Visual and structural; may affect
+          sound quality.
+        image: /img/bite mark.jpg
+        target: BiteMark
+      - caption: >-
+          Glue seam separating at head bridge, visible as the light line between
+          the darker wood and soundboard. Instrument buzzes when playing; the
+          soundboard is able to vibrate into the frame. Structural and affects
+          sound quality.
+        image: /img/seperating glue seam.jpg
+        target: GlueSeam
+      - caption: >-
+          Non-critical cracking in head compartment. Not unexpected; can be
+          repaired relatively simply. Shouldn’t affect sound quality.
+        image: /img/cracking head compartment.jpg
+        target: CrackedHead
+      - caption: >-
+          Crack running through the artwork on a head compartment. Shouldn’t
+          affect sound quality but could affect artistic appeal.
+        image: /img/cracking panel.jpg
+        target: CrackedPanel
+      - caption: >-
+          Cracking through knots used in the sideboard. Shouldn’t affect sound
+          but does affect artistic appeal.
+        image: /img/cracking knot.jpg
+        target: CrackedKnot
+      - caption: >-
+          Non-critical cracking in tail, right side of picture. Shouldn’t affect
+          sound quality.
+        image: /img/cracking tail.jpg
+        target: CrackedTail
     text: >-
       Impact: Lowers the price due to lower artistic value, lower sound quality,
       and decreased performance lifespan. May not be repairable.
