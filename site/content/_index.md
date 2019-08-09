@@ -45,7 +45,7 @@ groups:
 
       [Buy New](/buy-new)
 
-      Buy Used
+      [Buy Used](/buy-used-guzheng)
 
       [Find Stores](/guzheng-stores)
 
