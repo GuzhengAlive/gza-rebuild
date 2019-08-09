@@ -292,6 +292,36 @@ sections:
       skilled repairmen and the cost is high. Cracks do reduce the value of the
       instrument.
   - heading: Build Quality
+    lightbox:
+      - caption: >-
+          These sound holes have been lined with extra wood and the backboard
+          has visible wood grains. The lining helps reduce the likelihood of
+          cracks and smooths the sides, making it more pleasant to reach in when
+          changing strings. They are also reinforced inside the resonance
+          chamber.
+
+
+
+
+          Th exposed grain is a way of showing off the wood, indicating it was
+          made from planks rather than plywood.
+        image: /img/sound hole lining.jpg
+        target: SoundholeLining
+      - caption: >-
+          This decoration on the instrument’s head showcases high build quality.
+          There is not excessive glue visible at the joints, no obvious cracks
+          on the thinner pieces of wood, good coloration of the wood and
+          staining, and reasonable detail in the woodwork.
+        image: /img/decoration quality.jpg
+        target: DecorationQuality
+      - caption: >-
+          The ornamentation on the tail changes color in the center, going from
+          ivory to white, is rough to the touch, and does not have smooth,
+          curving edges. The corners of the design do not quite touch while
+          others on the same tailpiece do. These detail issues could lower the
+          artistic value of the instrument.
+        image: /img/workmanship issues.jpg
+        target: WorkmanshipIssues
     text: >-
       Impact: May lower the artistic value and thus price; may affect sound
       quality in extreme cases; may indicate reduced performance lifespan.
