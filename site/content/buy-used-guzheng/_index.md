@@ -161,6 +161,22 @@ sections:
       advertises it as “like new” or if you are buying the instrument as a
       display piece.
   - heading: Maintenance Needs
+    lightbox:
+      - caption: >-
+          White dust visible where bridges would normally stand. Easily removed
+          with a dusting cloth.
+        image: /img/dusty soundboard.jpg
+        target: DustySoundboard
+      - caption: >-
+          Loose screw and hinge in head compartment. Easy fix but requires
+          comfort checking the screw hole and possible re-drilling.
+        image: /img/damaged hinge.jpg
+        target: LooseHinge
+      - caption: >-
+          Bridges should go from small to large, right to left. The bridges in
+          this photo are in the wrong order.
+        image: /img/bridge out of order.jpg
+        target: BridgesOutOfOrder
     text: >-
       Impact: May lower price because of decreased sound quality until fixed
       and/or the cost of fixing them. May indicate a decreased performance
