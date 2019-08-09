@@ -1,23 +1,13 @@
-<div class="bg-off-white pv4">
-  <div class="ph3 mw8 center">
-    <div class="flex-ns flex-wrap mhn2-ns mb3">
-      {{ range .lightbox }}
-      <div class="ph2-ns w-33-ns mb3">
-        <h2 class="f3 b lh-title mb2">{{.title}}</h2>
-        <a class="lightbox" href="#{{.target}}" class="left db mb3">
-           <img src="{{.image}}"/>
-        </a>
-        <div class="lightbox-target" id="{{.target}}">
-           <img src="{{.image}}"/>
-           {{.caption}}
-           <a class="lightbox-close" href="#"></a>
-         </div>
-      {{ end }}
-    </div>
-  </div>
-</div>
+<div class="mhn2-ns mb3 flex-ns flex-wrap">
+          {{ range .lightbox }}
+            <a class="lightbox db mb3" href="#{{.target}}">
+               <img src="{{.image}}" class="w-30"/>
+            </a>
+            <div class="lightbox-target" id="{{.target}}">
+               <img src="{{.image}}"/>
+               <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+							 <p>{{.caption}}</p>
+						 </div>
 
 
-
-
-<!--Pneed another field for each image to create anchors-->
+<!--Expects Img, Target, and Caption-->
