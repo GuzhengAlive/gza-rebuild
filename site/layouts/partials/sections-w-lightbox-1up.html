@@ -10,24 +10,27 @@
 				<h2 class="f2 b lh-title mb2 " id="{{$anchortarget}}">{{.heading}}</h2>
 
 				{{if .lightbox}}
-			<div class="mhn2-ns mb3 flex-ns flex-wrap">
+			<div class="mhn2-ns mb3 center">
 			{{ range .lightbox}}
 				<a class="lightbox db mb3" href="#{{.target}}">
 					 <img src="{{.image}}" class="mw8"/>
-					 <p>{{.caption}}</p>
+					 <p style="text-decoration: none;">{{.caption}}</p>
 				</a>
 				<div class="lightbox-target" id="{{.target}}">
 					 <img src="{{.image}}"/>
 					 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
 					 <p>{{.caption}}</p>
 				 </div>
+
 			{{end}}
+			 </div>
+			  {{end}}
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
-</div>
+
 
 
   </div>
-    {{end}}
+
 
 	</div>
 </div>
