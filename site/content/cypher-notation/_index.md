@@ -38,18 +38,16 @@ sections:
       are added around each note to tell the player which technique to use and
       which ornamentations to add.
   - heading: The Notes
+    lightbox:
+      - caption: 'Do, Re, Mi, Fa, So, La, Ti, and rest in Cypher Notation.'
+        image: /img/notation-scale.png
+        target: NumericNotationScale
     text: >-
-      ![Numeric Notation Scale](/img/notation-scale.png "Do, Re, Mi, Fa, So, La,
-      Ti, and rest in Cypher Notation.")
-
-
       Numeric or Cypher notation gets its name from the use of numbers to
       represent notes. Each number represents a note in a key. Unlike staff
       notation, an individual number could represent any pitch. The player needs
       to know the key the music is in to identify which note, which pitch, is
       represented by which number. 
-
-
 
 
       Guzheng music in cypher notation is usually written on a Movable Do scale.
@@ -60,13 +58,9 @@ sections:
       is a higher pitch than a 1.
 
 
-
-
       Any number 8 or higher is referring to the physical string on the
       instrument, not a note. A 0 indicates a rest. If you see letters in place
       of numbers you have stumbled onto koto notation.
-
-
 
 
       Guzheng are typically tuned so that unmodified or "open" strings produce
