@@ -13,6 +13,7 @@
 </div>
 
     {{if .lightbox}}
+		<p>Lightbox Detected</p>
 		{{ partial "lightbox-3up" (dict "anchorLink" $.anchortarget "lightbox" .lightbox)}}
     {{end}}
 	</div>
