@@ -69,19 +69,17 @@ sections:
       string with the left hand to raise the string's pitch by a half step. A 7
       is played by pressing a 6.
   - heading: Octaves
+    lightbox:
+      - caption: Indicating octaves in Cypher Notation.
+        image: /img/cypher-notation-octaves.png
+        target: OctaveNotation
     text: >-
-      ![Cipher Notation Octave markers](/img/cypher-notation-octaves.png
-      "Indicating octaves in Cypher Notation.")
-
-
       A typical guzheng is tuned to include notes in 5 octaves. Octaves are
       distinguished by placing dots above or below a note. A number without a
       dot is a note in the home octave, the octave that is physically the most
       comfortable to play. The home octave changes for every key. In the Key of
       D the home octave is strings 11, 10, 9, 8, and 7.  In the Key of G the
       home octave is strings 9, 8, 7, 6, and 5.
-
-
 
 
       Going back to the Key of D the lowest string on the guzheng, string 21, is
@@ -92,12 +90,12 @@ sections:
       notation change depending on the tuning. In the key of G, for example,
       notes range from a high of 5 with one dot above it to a low of 5 with
       three dots below.
-  - heading: Duration
+  - heading: 'Duration: Short'
+    lightbox:
+      - caption: Cypher notation for durations from quarter to thirty second notes.
+        image: /img/duration-cypher-notation-2.png
+        target: ShortDuration
     text: >-
-      ![Cipher Notation Duration 1](/img/duration-cypher-notation-2.png "Cypher
-      notation for durations from quarter to thirty second notes.")
-
-
       An unmodified note is a quarter note. Adding a line halves the note's
       duration. This is the same as adding flags to notes in staff notation. One
       line indicates an eighth note, two lines indicate a sixteenth, and three
@@ -108,12 +106,12 @@ sections:
       same as it does in staff notation. A quarter note with a dot lasts the
       combined length of a quarter and an eighth note. A sixteenth note with a
       dot lasts the combined length of a sixteenth and a thirty second note.
-
-
-      ![Cipher Notation duration 2](/img/duration-cypher-notation-1.png "Cypher
-      notation for whole to half notes.")
-
-
+  - heading: 'Duration: Long'
+    lightbox:
+      - caption: Cypher notation for whole to half notes.
+        image: /img/duration-cypher-notation-1.png
+        target: LongDuration
+    text: >-
       Notes that last longer than a quarter note are indicated by horizontal
       dashes that replace every subsequent note until you reach the desired
       duration. A whole note is indicated by a note followed by three dashes. A
@@ -136,7 +134,7 @@ sections:
 
       Some techniques act as exceptions to this rule; see the Finger Techniques
       page for more details.
-  - heading: Short Rests
+  - heading: 'Rests: Short'
     lightbox:
       - caption: >-
           Cypher notation for rests from one quarter to one thirty second in
@@ -150,7 +148,7 @@ sections:
       modifiers as regular notes. It is more common to see two rests of
       different durations in sequence than it is to see a dotted rest but both
       can be understood.
-  - heading: Long Rests
+  - heading: 'Rests: Long'
     lightbox:
       - caption: Cypher notation for whole and half rests.
         image: /img/rests-cypher-notation-2.png
