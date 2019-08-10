@@ -136,22 +136,28 @@ sections:
 
       Some techniques act as exceptions to this rule; see the Finger Techniques
       page for more details.
-  - heading: Rests
+  - heading: Short Rests
+    lightbox:
+      - caption: >-
+          Cypher notation for rests from one quarter to one thirty second in
+          duration.
+        image: /img/rests-cypher-notation-1.png
+        target: ShortRests
     text: >-
-      ![Cypher Notation rests 1](/img/rests-cypher-notation-1.png "Cypher
-      notation for rests from one quarter to one thirty second in duration.")
-
-
-      ![Cypher Notation Rests 2](/img/rests-cypher-notation-2.png "Cypher
-      notation for whole and half rests.")
-
-
       A rest is represented by a 0. A rest means the instrument is silent. This
       can require the player to manually silence the strings with a finger,
       hand, or both hands. Rest durations are indicated by the same line
       modifiers as regular notes. It is more common to see two rests of
       different durations in sequence than it is to see a dotted rest but both
       can be understood.
+  - heading: Long Rests
+    lightbox:
+      - caption: Cypher notation for whole and half rests.
+        image: /img/rests-cypher-notation-2.png
+        target: LongRests
+    text: >-
+      Since an unmodified note has the duration of a quarter note, dashes must
+      be added to length a rest to half and whole notes.
   - heading: Articulation
     text: >-
       Cypher notation borrows heavily from staff music symbols. Ties, slurs,
