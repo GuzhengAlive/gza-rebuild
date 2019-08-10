@@ -33,7 +33,7 @@ groups:
 
       [Teachers](/teachers)
 
-      Read Sheet Music
+      [Read Sheet Music and Cypher Notation](/cypher-notation)
 
       Finger Techniques
 
