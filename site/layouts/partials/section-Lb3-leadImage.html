@@ -11,7 +11,7 @@
 
 {{ if .text }}
 {{ if .leadimage}}
-<img src="{{.leadimageurl}}" class="mw4 {{.imageposition}}"/>
+<img src="{{.leadimage.leadimageurl}}" class="mw4 {{.leadimage.imageposition}}"/>
 {{end}}
 <p>{{.text | markdownify}}</p> {{end}}
 </div>
