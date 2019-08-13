@@ -241,3 +241,7 @@ top: 0px;
 .collapsibleList label {
  cursor: pointer;
 }*/
+
+.imgcaption {
+  text-decoration: none;
+}
