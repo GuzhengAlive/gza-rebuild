@@ -12,6 +12,18 @@ groups:
       [Timelines](/guzheng-timelines)
 
       The Story of Guzheng's Long History
+  - title: The Basics
+    image: /img/usda-performer.jpg
+    text: |-
+      Where to start
+
+      [Teachers](/teachers)
+
+      [Read Sheet Music and Cypher Notation](/cypher-notation)
+
+      Finger Techniques
+
+      [Parts and Terms](/guzheng-terminology)
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
@@ -26,18 +38,6 @@ groups:
       [Change Keys](/keys)
 
       Construct Keys
-  - title: The Basics
-    image: /img/usda-performer.jpg
-    text: |-
-      Where to start
-
-      [Teachers](/teachers)
-
-      [Read Sheet Music and Cypher Notation](/cypher-notation)
-
-      Finger Techniques
-
-      [Parts and Terms](/guzheng-terminology)
   - title: Buying
     image: /img/retailers.jpg
     text: |-
