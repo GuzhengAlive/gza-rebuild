@@ -71,7 +71,7 @@ label.lbl-toggle::before {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 950px;
+/*  max-height: 950px;*/
 }
 
 .toggle:checked + .lbl-toggle {
