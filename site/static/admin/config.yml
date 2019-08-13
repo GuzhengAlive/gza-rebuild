@@ -352,8 +352,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: LeadImage, name: leadimage, widget: list, fields:[
-                        {label: "Image", name: "image", widget: "image"},
-                        {label: "Image Position", name: "imageposition", widget: "select", options:["left", "right"]},
+                        {label: "LeadImageUrl", name: "leadimageurl", widget: "image"},
+                        {label: "Image Position", name: "imageposition", widget: "select", options:["fl", "fr", "fn"]},
                         {label: "Caption", name: "caption", widget: "markdown", required: false}]}
             - {label: Text, name: text, widget: markdown, required: false}
             - {label: Lightbox, name: lightbox, widget: list, fields: [
