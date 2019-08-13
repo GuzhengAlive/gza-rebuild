@@ -12,8 +12,8 @@
 {{ if .text }}
 {{ if .leadimage}}
 {{range .leadimage}}
-<div class="{{.imageposition}}  mh3">
-<img src="{{.leadimageurl}}" class="mw6"/>
+<div class="{{.imageposition}}  mh3 mw5">
+<img src="{{.leadimageurl}}"/>
 <p class="imgcaption f6">{{.caption | markdownify}}</p>
 </div>
 {{end}}
