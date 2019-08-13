@@ -12,7 +12,10 @@
 {{ if .text }}
 {{ if .leadimage}}
 {{range .leadimage}}
-<img src="{{.leadimageurl}}" class="mw4 {{.imageposition}}"/>
+<div class="{{.imageposition}}  mh3">
+<img src="{{.leadimageurl}}" class="mw6"/>
+<p class="imgcaption f6">{{.caption | markdownify}}</p>
+</div>
 {{end}}
 {{end}}
 <p>{{.text | markdownify}}</p> {{end}}
@@ -23,7 +26,7 @@
 	{{ range .lightbox}}
 		<a class="lightbox db mb3 w-30" href="#{{.target}}">
 			 <img src="{{.image}}" class="w-90"/>
-			 <p class="tc imgcaption f6">{{.caption}}</p>
+			 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 		</a>
 		<div class="lightbox-target" id="{{.target}}">
 			 <img src="{{.image}}"/>
