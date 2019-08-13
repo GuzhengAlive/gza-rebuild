@@ -360,6 +360,12 @@ collections: # A list of collections the CMS should be able to edit
                         {label: "Image", name: "image", widget: "image"},
                         {label: "Target", name: "target", widget: "string"},
                         {label: "Caption", name: "caption", widget: "markdown", required: false}]}
+          - label: Blinds
+            name: blinds
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: text, name: text, widget: markdown, required: false}          
       - file: "site/content/guzheng-in-90-seconds/_index.md"
         label: "Guzheng in 90 Seconds"
         name: "guzhengin90"
