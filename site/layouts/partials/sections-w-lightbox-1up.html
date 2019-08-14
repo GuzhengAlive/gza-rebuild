@@ -19,7 +19,7 @@
 				<div class="lightbox-target" id="{{.target}}">
 					 <img src="{{.image}}"/>
 					 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
-					 <p>{{.caption}}</p>
+					 <p>{{.caption | markdownify}}</p>
 				 </div>
 
 			{{end}}
