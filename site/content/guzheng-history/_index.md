@@ -3,7 +3,7 @@ title: The Guzheng Story
 image: /img/united-by-music-2edied_compressed.jpg
 imagecredit: >-
   "United by Music", scroll painting from 15th or 16th century. Full scroll
-  viewable at[ Center for the Art of East
+  viewable at [Center for the Art of East
   Asia](https://scrolls.uchicago.edu/scroll/united-music)
 sections:
   - heading: Introduction
