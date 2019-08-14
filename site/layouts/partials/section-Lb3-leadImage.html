@@ -24,10 +24,14 @@
     {{if .lightbox}}
 <div class="mhn2-ns mb3 flex-ns flex-wrap">
 	{{ range .lightbox}}
+<div class="">
+
+
 		<a class="lightbox mb3 w-30" href="#{{.target}}">
 			 <img src="{{.image}}" class="w-90"/>
-			 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 		</a>
+		<p class="tc imgcaption f6">{{.caption | markdownify}}</p>
+		</div>
 		<div class="lightbox-target" id="{{.target}}">
 			 <img src="{{.image}}"/>
 			 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
