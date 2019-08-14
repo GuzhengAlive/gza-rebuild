@@ -27,7 +27,7 @@ groups:
   - title: Tuning
     image: /img/two-color-background.png
     text: |-
-      21 Strings
+      [21 Strings](/guzheng-tuning)
 
       [16, 18, 23, 26-String](/tuning-16-18-23-26)
 
