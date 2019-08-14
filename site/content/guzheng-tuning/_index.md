@@ -85,7 +85,7 @@ sections:
       Video instructions from Sound of China:
 
 
-      {{< youtube IoxwC5y03Qg >}}
+      {{ youtube IoxwC5y03Qg }}
 
 
       ### 1: Check bridge placement
