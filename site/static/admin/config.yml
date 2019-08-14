@@ -541,6 +541,10 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Lightbox, name: lightbox, widget: list, fields: [
+                        {label: "Image", name: "image", widget: "image"},
+                        {label: "Target", name: "target", widget: "string"},
+                        {label: "Caption", name: "caption", widget: "markdown"}]}
             - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/guzheng-woods/_index.md"
         label: "Guzheng Woods"
