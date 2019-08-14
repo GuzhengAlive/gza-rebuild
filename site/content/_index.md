@@ -37,7 +37,7 @@ groups:
 
       [Change Keys](/keys)
 
-      Construct Keys
+      [Construct Scales](/construct-scales)
   - title: Buying
     image: /img/retailers.jpg
     text: |-
