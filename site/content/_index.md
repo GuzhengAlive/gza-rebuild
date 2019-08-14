@@ -11,7 +11,7 @@ groups:
 
       [Timelines](/guzheng-timelines)
 
-      The Story of Guzheng's Long History
+      [The Story of Guzheng's Long History](/guzheng-history)
   - title: The Basics
     image: /img/usda-performer.jpg
     text: |-
