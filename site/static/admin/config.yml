@@ -212,6 +212,23 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+      - file: "site/content/construct-scales/_index.md"
+        label: "Construct Scales"
+        name: "constructscales"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Lightbox, name: lightbox, widget: list, fields: [
+                        {label: "Image", name: "image", widget: "image"},
+                        {label: "Target", name: "target", widget: "string"},
+                        {label: "Caption", name: "caption", widget: "markdown"}]}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/cost-of-ownership/_index.md"
         label: "Cost Of Ownership"
         name: "costofownership"
@@ -243,7 +260,6 @@ collections: # A list of collections the CMS should be able to edit
                         {label: "Target", name: "target", widget: "string"},
                         {label: "Caption", name: "caption", widget: "markdown"}]}
             - {label: Text, name: text, widget: markdown, required: false}
-
       - file: "site/content/digitizing-scores/_index.md"
         label: "Digitizing Scores"
         name: "digitizingscores"
@@ -365,7 +381,7 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
-            - {label: text, name: text, widget: markdown, required: false}          
+            - {label: text, name: text, widget: markdown, required: false}
       - file: "site/content/guzheng-in-90-seconds/_index.md"
         label: "Guzheng in 90 Seconds"
         name: "guzhengin90"
