@@ -5,7 +5,9 @@
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
+<div class="mw8 center ph3 pt4">
 	{{ range $element := .Params.sections }}
 		{{ partial "media-block-1-to-3" $element }}
 	{{end}}
+	</div>
 {{ end }}
