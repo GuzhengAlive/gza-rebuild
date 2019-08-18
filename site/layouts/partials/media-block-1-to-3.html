@@ -3,7 +3,7 @@
 {{ if .imageUrl }}
 <div class="">
   {{ $anchortarget := replaceRE " " "" .heading }}
-  <h2 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
+  <h2 class="ph3-m f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
 </div>
 <div class="flex-m mhn3-m mb4">
   <div class="ph3-m w-25-m">
@@ -19,7 +19,7 @@
 {{ else }}
 <div class="ph3-m">
   {{ $anchortarget := replaceRE " " "" .heading }}
-  <h2 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
+  <h2 class="ph3-m f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
   <p>{{.text | markdownify}}</p>
 </div>
 {{end}}
