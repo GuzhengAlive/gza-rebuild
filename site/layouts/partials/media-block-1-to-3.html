@@ -1,22 +1,27 @@
-<div class="flex-m mhn3-m mb4 center">
+<dv class="center">
+<div class="flex-m mhn3-m mb4">
 <!-- the "else" Makes this media block flexible; can be used on pages where images are desired OR for normal sectional use. May be wise to use site-wide.-->
 <!-- Need to make two updates: headings should be h2 and sub headings, adjacet to each picture, should be h3. Will need to match with changes in frontmatter. -->
 {{ if .imageUrl }}
+<div class="">
+  {{ $anchortarget := replaceRE " " "" .heading }}
+  <h2 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
+</div>
   <div class="ph3-m w-25-m">
     <img src="{{.imageUrl}}" alt="" class="db mb2">
     <p class="f6">{{.caption}}</p>
   </div>
 
   <div class="ph3-m w-75-m">
-    {{ $anchortarget := replaceRE " " "" .heading }}
-    <h3 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h3>
+    <h3 class="f3 b lh-title mb1">{{.subheading}}</h3>
     <p>{{.text | markdownify}}</p>
   </div>
 {{ else }}
 <div class="ph3-m">
   {{ $anchortarget := replaceRE " " "" .heading }}
-  <h3 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h3>
+  <h2 class="f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
   <p>{{.text | markdownify}}</p>
 </div>
 {{end}}
+</div>
 </div>
