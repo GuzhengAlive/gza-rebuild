@@ -1,12 +1,12 @@
 <div class="mhn2-ns mb3 flex-ns flex-wrap">
           {{ range .lightbox}}
           <p>{{.anchorLink}}.</p>
-            <a class="lightbox db mb3 w-30" href="#{{.target}}">
+            <a class="lightbox db mb3 w-30" href="#{{.target}}" id="{{.target}}2">
                <img src="{{.image}}" class="w-90"/>
             </a>
             <div class="lightbox-target" id="{{.target}}">
                <img src="{{.image}}"/>
-               <a class="lightbox-close" href="#{{.anchorLink}}"></a>
+               <a class="lightbox-close" href="#{{.target}}2"></a>
 							 <p>{{.caption}}</p>
 						 </div>
        {{end}}

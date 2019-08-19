@@ -12,13 +12,13 @@
 				{{if .lightbox}}
 			<div class="mhn2-ns mb3">
 			{{ range .lightbox}}
-				<a class="lightbox mb3" href="#{{.target}}">
+				<a class="lightbox mb3" href="#{{.target}}" id="{{.target}}2">
 					 <img src="{{.image}}" class="mw8 db center"/>
 					 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 				</a>
 				<div class="lightbox-target" id="{{.target}}">
 					 <img src="{{.image}}"/>
-					 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+					 <a class="lightbox-close" href="#{{.target}}2"></a>
 					 <p>{{.caption | markdownify}}</p>
 				 </div>
 
