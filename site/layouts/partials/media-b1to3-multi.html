@@ -1,0 +1,27 @@
+<!-- the "else" Makes this media block flexible; can be used on pages where images are desired OR for normal sectional use. May be wise to use site-wide.-->
+<!-- Will need to match with changes in frontmatter. -->
+{{ if .imageUrl }}
+<div class="">
+  {{ $anchortarget := replaceRE " " "" .heading }}
+  <h2 class="ph3-m f3 b lh-title mb1 tc" id="{{$anchortarget}}">{{.heading}}</h2>
+</div>
+<div class="flex-m mhn3-m mb4">
+  <div class="ph3-m w-25-m">
+    {{range .images}}
+    <img src="{{.imageUrl}}" alt="" class="db mb2">
+    <p class="f6">{{.caption}}</p>
+    {{end}}
+  </div>
+
+  <div class="ph3-m w-75-m">
+    <h3 class="f4 b lh-title mb1">{{.subheading}}</h3>
+    <p>{{.text | markdownify}}</p>
+  </div>
+  </div>
+{{ else }}
+<div class="ph3-m">
+  {{ $anchortarget := replaceRE " " "" .heading }}
+  <h2 class="ph3-m f3 b lh-title mb1 tc" id="{{$anchortarget}}">{{.heading}}</h2>
+  <p>{{.text | markdownify}}</p>
+</div>
+{{end}}

@@ -593,8 +593,12 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string, required: false}
               - {label: Subheading, name: subheading, widget: string, required: false}
               - {label: Text, name: text, widget: markdown, required: false}
-              - {label: Image, name: imageUrl, widget: image, required: false}
-              - {label: Caption, name: caption, widget: text, required: false}
+              - label: Images
+                name: images
+                widget: list
+                fields:
+                  - {label: Image, name: imageURL, widget: image}
+                  - {label: Caption, name: caption, widget: text, required: false}
       - file: "site/content/import-issues-cites/_index.md"
         label: "Import Issues Cites"
         name: "importissuescites"
