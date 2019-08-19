@@ -598,6 +598,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: list
                 fields:
                   - {label: Image, name: imageURL, widget: image}
+                  - {label: Target, name: target, widget: string}
                   - {label: Caption, name: caption, widget: text, required: false}
       - file: "site/content/import-issues-cites/_index.md"
         label: "Import Issues Cites"
