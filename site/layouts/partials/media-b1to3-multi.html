@@ -1,6 +1,6 @@
 <!-- the "else" Makes this media block flexible; can be used on pages where images are desired OR for normal sectional use. May be wise to use site-wide.-->
 <!-- Will need to match with changes in frontmatter. -->
-{{ if .imageUrl }}
+{{ if .images }}
 <div class="">
   {{ $anchortarget := replaceRE " " "" .heading }}
   <h2 class="ph3-m f3 b lh-title mb1 tc" id="{{$anchortarget}}">{{.heading}}</h2>
