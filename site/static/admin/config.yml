@@ -786,9 +786,11 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
-            - {label: Lightbox, name: lightbox, widget: list, fields: [
-                        {label: "Image", name: "image", widget: "image"},
-                        {label: "Target", name: "target", widget: "string"}]}
+            - {label: Subsection, name: subsection, widget: list, fields: [
+                        {label: "Image", name: "image", widget: "image", required:false},
+                        {label: "Target", name: "target", widget: "string", required:false}
+                        {label: "Caption", name: "caption", widget: "string", required:false}
+                        {label: "Text", name: "subsectiontext", widget: "markdown", required:false}]}
       - file: "site/content/teachers/_index.md"
         label: "Teachers"
         name: "teachers"
