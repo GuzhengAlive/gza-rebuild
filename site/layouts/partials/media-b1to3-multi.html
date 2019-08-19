@@ -8,13 +8,13 @@
 <div class="flex-m mhn3-m mb4">
   <div class="ph3-m w-25-m">
     {{range .images}}
-    <a class="lightbox db mb3" href="#{{.target}}">
+    <a class="lightbox db mb3" href="#{{.target}}" id="{{.target}}2">
        <img src="{{.imageURL}}" class="db mb2"/>
        <p class="f6">{{.caption}}</p>
     </a>
     <div class="lightbox-target" id="{{.target}}">
        <img src="{{.imageURL}}"/>
-       <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+       <a class="lightbox-close" href="#{{.target}}2"></a>
        <p class="f6">{{.caption}}</p>
      </div>
     {{end}}
