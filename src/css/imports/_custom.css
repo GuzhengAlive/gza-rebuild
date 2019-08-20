@@ -114,8 +114,8 @@ table.GeneratedTable thead {
 .lightbox-target {
 position: fixed;
 /*top: -100%;*/
-left: -25%;
-width: 125%;
+left: 0%;
+width: 100%;
 background: rgba(0,0,0,.7);
 opacity: 0;
 -webkit-transition: opacity .5s ease-in-out;
@@ -130,7 +130,7 @@ text-align: center;
 
 .lightbox-target img {
 margin: auto;
-position: absolute;
+/*position: absolute;*/
 /*top: 0;
 left:0;
 right:0;
