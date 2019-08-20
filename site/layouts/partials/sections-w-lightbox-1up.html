@@ -17,10 +17,11 @@
 					 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 				</a>
 				<div class="lightbox-target" id="{{.target}}">
-<span class="helper"></span>
+					<span class="helper"></span>
+					 <p>{{.caption | markdownify}}</p>
 					 <img src="{{.image}}"/>
 					 <a class="lightbox-close" href="#{{.target}}2"></a>
-					 <p>{{.caption | markdownify}}</p>
+
 				 </div>
 
 			{{end}}
