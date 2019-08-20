@@ -1,5 +1,5 @@
 <!-- the "else" Makes this media block flexible; can be used on pages where images are desired OR for normal sectional use. May be wise to use site-wide.-->
-<!-- Will need to match with changes in frontmatter. -->
+<!-- Works! Can be used to replace other media blocks. Will need to adjust frontmatter to support nsted images. -->
 {{ if .images }}
 <div class="">
   {{ $anchortarget := replaceRE " " "" .heading }}
