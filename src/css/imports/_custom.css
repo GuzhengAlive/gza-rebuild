@@ -223,6 +223,7 @@ bottom: 0;
 .lightbox-target:target img {
 max-height: 100%;
 max-width: 100%;
+vertical-align: middle;
 }
 
 .lightbox-target:target a.lightbox-close {
