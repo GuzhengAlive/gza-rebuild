@@ -9,6 +9,9 @@
 	{{ range $index, $element := .Params.sections }}
 	{{ partial "basic-sections" $element }}
 	{{end}}
+	{ range $element := .Params.blinds }}
+		{{ partial "jump-to-menu" $element }}
+	{{end}}
 
 <!-- Hardcoded html table  -->
 <div class="mw8 center">
@@ -68,4 +71,7 @@
 </tbody>
 </table>
 </div>
+{{ range $index, $element := .Params.sections2 }}
+{{ partial "basic-sections" $element }}
+{{end}}
 {{ end }}
