@@ -9,7 +9,7 @@
 	{{ range $index, $element := .Params.sections }}
 	{{ partial "basic-sections" $element }}
 	{{end}}
-	{ range $element := .Params.blinds }}
+	{{ range $element := .Params.blinds }}
 		{{ partial "jump-to-menu" $element }}
 	{{end}}
 
