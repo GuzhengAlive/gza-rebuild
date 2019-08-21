@@ -560,18 +560,18 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
-          - label: Blinds
-            name: blinds
-            widget: list
-            fields:
-            - {label: Heading, name: heading, widget: string, required: false}
-            - {label: text, name: text, widget: markdown, required: false}
+            - {label: Blinds, name: blinds, widget: list, fields: [
+                        {label: Heading, name: blindheading, widget: string, required: false},
+                        {label: text, name: text, widget: markdown, required: false}]}
           - label: Sections2
             name: sections2
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+            - {label: Blinds, name: blinds, widget: list, fields: [
+                        {label: Heading, name: blindheading, widget: string, required: false},
+                        {label: text, name: text, widget: markdown, required: false}]}            
       - file: "site/content/how-to-make-guzheng/_index.md"
         label: "How To Make Guzheng"
         name: "howtomakeguzheng"

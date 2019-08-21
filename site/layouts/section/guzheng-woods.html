@@ -5,12 +5,12 @@
 {{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
+{{ range $element := .Params.sections2 }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 </div>
 	{{ range $index, $element := .Params.sections }}
-	{{ partial "basic-sections" $element }}
-	{{end}}
-	{{ range $element := .Params.blinds }}
-		{{ partial "jump-to-menu" $element }}
+	{{ partial "basic-sections-w-blinds" $element }}
 	{{end}}
 
 <!-- Hardcoded html table  -->
@@ -72,6 +72,6 @@
 </table>
 </div>
 {{ range $index, $element := .Params.sections2 }}
-{{ partial "basic-sections" $element }}
+{{ partial "basic-sections-w-blinds" $element }}
 {{end}}
 {{ end }}
