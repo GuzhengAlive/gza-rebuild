@@ -25,15 +25,17 @@
 <div class="mhn2-ns mb3 flex-ns flex-wrap">
 	{{ range .lightbox}}
 <div class="w-30">
-		<a class="lightbox mb3" href="#{{.target}}">
+		<a class="lightbox mb3" href="#{{.target}}" id="{{.target}}2">
 			 <img src="{{.image}}" class="w-90"/>
 		</a>
 		<p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 		</div>
 		<div class="lightbox-target" id="{{.target}}">
-			 <img src="{{.image}}"/>
-			 <a class="lightbox-close" href="#{{$anchortarget}}"></a>
+			<span class="helper"></span>
 			 <p>{{.caption | markdownify}}</p>
+			 <img src="{{.image}}"/>
+			 <a class="lightbox-close" href="#{{.target}}2"></a>
+
 		 </div>
 {{end}}
   </div>
