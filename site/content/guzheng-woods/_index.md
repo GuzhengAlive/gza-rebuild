@@ -1,6 +1,9 @@
 ---
 title: Guzheng Woods
-image: /img/white-background.jpeg
+image: /img/log-ends_compressed.jpg
+imagecredit: >-
+  Source: [364 ](https://www.flickr.com/photos/grizzlybear-se/33149651792/)by
+  Grizzlybear.se, Public Domain
 sections:
   - text: >-
       One of the biggest choices in guzheng manufacture is the woods that are
