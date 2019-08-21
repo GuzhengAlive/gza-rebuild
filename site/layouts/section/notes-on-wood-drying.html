@@ -4,8 +4,10 @@
 {{ range $element := .Params.sections }}
 	{{ partial "jump-to-menu" $element }}
 {{end}}
+{{ range $element := .Params.blinds }}
+	{{ partial "jump-to-menu" $element }}
+{{end}}
 </div>
-	{{ range $element := .Params.sections }}
-		{{ partial "section-Lb3-leadImage" $element }}
-	{{end}}
+	{{ partial "section-Lb3-leadImage" $element }}
+	{{ partial "collapsible-blind" .Params}}
 {{ end }}
