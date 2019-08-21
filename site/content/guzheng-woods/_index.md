@@ -26,7 +26,10 @@ sections2:
         text: "(11)\_\"[SANTALACEAE](http://frps.iplant.cn/foc/pdf/Santalaceae.pdf)\" by Xia Nianhe (夏念和) and Michael G. Gilbert, Flora of China Volume 5, p 208-219. 2003."
     heading: Vocabulary
     text: "Let’s explain some common terms.\n\nHóngmù (红木): Literally \"Red Wood\" it's a generic term used when the particular species isn't important.\_Entry level instruments are often labeled Hóngmù. Dictionaries translate hongmu as Rosewood or Mahogany. Mahogany is native to the Americas, so I can almost guarantee it's not going to be found in entry-level instruments made in China. As for Rosewood...\n\nRosewood\_is an over-used catchall. Officially, \"Rosewood\" refers to trees in the Dalbergia genus, many of which are used for instrument construction. In normal conversation, \"rosewood\"\_refers to anything that looks similar to Dalbergia. Over time this has included species in the Pterocarpus, Machaerium, and Dysoxylum genera. The term \"Rosewood\" does not identify what species of wood the instrument is made of.\n\nSandalwood:\_In the guzheng world,\_\"Sandalwood\" is used to represent species in the Pterocarpus, Dalbergia, and Bobgunnia genera. This is misleading. In English the term Sandalwood is used to refer either to the Santalum genus which is known for its fragrance or to refer to the family Santalaceae which contains 42 different genera and over 1,000 species. Many countries in Asia and the Pacific do have native Santalum varieties but I have no evidence that these are used to produce guzheng. (11)\_\n\nZǐtán (紫檀): Can refer to multiple high-quality woods. If the wood is only listed as \"Zitan\" it is probably Madagascar Rosewood,\_Dalbergia\_baroni, or \_East Indian Rosewood,\_Dalbergia\_latifolia.\_It also makes up part of the Chinese names for the highly prized Red Sander, Pterocarpus santalinus\_(Xiǎoyè zǐtán) and the highly illegal Brazilian Rosewood,\_Dalbergia nigra (Bāxī zǐtán). I would expect Brazilian Rosewood to be highlighted if it was used in an instrument. See their entries below for more details."
-  - heading: Common Confusions
+  - blinds:
+      - blindheading: Common Confusion Notes and Sources
+        text: "(1): Search results for Paulownia names from ThePlantList.org \r\n\n(2): Text of 侗谱 from Wikisource Chinese,  summarized in English by Carol Chang on her website."
+    heading: Common Confusions
     text: >-
       Common names, imprecise naming, and mistranslations make figuring out
       actual wood species a real challenge. Thankfully [Carol Chang of
@@ -96,7 +99,10 @@ sections2:
 
       People in Southern China use Wútóng to refer to Firmiana simplex, a tree
       that grows poorly in northern regions.
-  - heading: More on Tong Woods
+  - blinds:
+      - blindheading: Tong Wood Sources
+        text: "(3): 毛泡桐图片 page (badly translated as \"Pictures of Hairy Paulownia\") on YuHuaGu.com. See names in header next to 别称, \"Nicknames\". Paulownia trees grow fine hairs on parts of their surface. \r\n\n(4):Handbook of Materials for String Musical Instruments by Voichita Bucur, Switzerland: Springer, 2016, page 388 \r\n\n(5):One modern source that decries F. simplex as a poor choice for instruments is \"古典詩文中的桐樹意象與文化意涵, The Symbol and Cultural Connotation of Phoenix Tree\" by Ming-Yi Chou, contained in Volume 32 of the Minghsin Journal, published August 2006. \r\n\n(6): Referenced on ThePlantList.org \r\n\n(7): M. Hakan Akyildiz, Hamiyet Sahin Kol (2010)\"Some technological properties and uses of paulownia (Paulownia tomentosa Steud.) wood\", Journal of Environmental Biology (India), 31 351-355"
+    heading: More on Tong Woods
     text: >-
       Here are 11 names for Tong woods you might encounter:
 
@@ -139,7 +145,10 @@ sections2:
       to create Tung oil which is used in some varnishes for musical
       instruments. I don't have evidence the wood was ever used to construct
       them.(4)
-  - heading: Soundboard Woods
+  - blinds:
+      - blindheading: Soundboard Sources
+        text: "Chinesezither.net, Soundboard Woods article \r\n\nEfloras.org, Flora of China database \r\n\n(*): One source I found claims Mongolian zhengs, possibly Yatgas (雅托葛), have soundboards made of 杨木 or Yáng mù, which one source specifies as Liriodendron tulipifera. I haven't confirmed this elsewhere yet so this lives in the footnotes for now."
+    heading: Soundboard Woods
     text: >-
       The main wood used in modern soundboards is [Paulownia elongata or Lánkǎo
       Pāotóng](http://www.efloras.org/object_page.aspx?object_id=3552&flora_id=2)
@@ -177,7 +186,10 @@ sections2:
       "Hey!" I hear you cry "What about 'Wutong wood' and 'Firmiana simplex'?? I
       see that everywhere!" Well, there's a (long) answer for that. I hope you
       brought snacks.
-  - heading: Backboard Woods
+  - blinds:
+      - blindheading: Backboard Wood Sources
+        text: "Cheng 1991, and: \r\n\n(7) Missouri Botanical Garden \r\n\n(8) Efloras.org \r\n\n(9) IUCN Redlist \r\n\n(10) Eflora.cn"
+    heading: Backboard Woods
     text: >-
       Unfortunately Cheng 1991 is the only one of my sources to describe the
       woods used in the backboard. He mentions Mulberry, Elm, Catalpa ovata,
