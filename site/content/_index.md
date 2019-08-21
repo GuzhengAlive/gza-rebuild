@@ -119,16 +119,22 @@ groups:
       [Virtual Instruments and Software](/virtual-instruments)
   - title: How it's Made
     image: /img/instrument-making-tools_compressed.jpg
-    text: |-
+    text: >-
       How to Make
 
-      3D Model
+
+      [3D
+      Model](https://3dwarehouse.sketchup.com/embed.html?mid=da50a2fd-5695-4540-9626-9f4800c9b1fc)
+
 
       [Woods Used](/guzheng-woods)
 
-      Wood Drying
+
+      [Wood Drying](/notes-on-wood-drying)
+
 
       [Legal Issues](/import-issues-cites)
+
 
       [String Tension](/string-tension)
   - title: About
