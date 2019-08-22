@@ -663,6 +663,7 @@ collections: # A list of collections the CMS should be able to edit
             - {label: LeadImage, name: leadimage, widget: list, fields:[
                         {label: "LeadImageUrl", name: "leadimageurl", widget: "image"},
                         {label: "Image Position", name: "imageposition", widget: "select", options:["fl", "fr", "fn"]},
+                        {label: "Width", name: "width", widget: "select", options:["mw5", "mw6"]},
                         {label: "Caption", name: "caption", widget: "markdown", required: false}]}
             - {label: Text, name: text, widget: markdown, required: false}
             - {label: Lightbox, name: lightbox, widget: list, fields: [
