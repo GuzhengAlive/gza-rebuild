@@ -811,6 +811,7 @@ collections: # A list of collections the CMS should be able to edit
                         {label: "Image", name: "image", widget: "image", required: false},
                         {label: "Target", name: "target", widget: "string", required: false},
                         {label: "Caption", name: "caption", widget: "string", required: false},
+                        {label: "Subheading", name: "subheading", widget: "string", required: false},
                         {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
       - file: "site/content/teachers/_index.md"
         label: "Teachers"
