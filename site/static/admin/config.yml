@@ -64,6 +64,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/similar-instruments" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "text"}
           - label: Sections
             name: sections
             widget: list
