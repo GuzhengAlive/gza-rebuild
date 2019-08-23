@@ -7,8 +7,12 @@
     </div>
     <div class="cms mw8">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fr pl3"/>{{ end }}
-      {{ .Content }}
+      <div class="tc">
+      {{ range $element := .Params.sections }}
+      	{{ partial "jump-to-menu" $element }}
+      {{end}}
+      </div>
+      {{ partial "sections-w-lightbox-1up" .Params }}
       {{ if .Params.videos }}
         {{ range $element := .Params.videos }}
           {{ partial "youtube-embed" $element }}
