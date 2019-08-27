@@ -4,7 +4,10 @@ description: 'X String, Year original, etc.'
 headerimage: /img/mfa-koto_compressed.jpg
 sections:
   - lightbox:
-      - caption: "From the [Museum of Fine Arts](http://www.mfa.org/collections/object/zither-koto-446207), Boston, MA, USA.\r\n\nUsed under Fair Use exception of US Copyright law."
+      - caption: >-
+          From the [Museum of Fine
+          Arts](http://www.mfa.org/collections/object/zither-koto-446207),
+          Boston, MA, USA. Used under Fair Use exception of US Copyright law.
         image: /img/mfa-koto_compressed.jpg
         target: mfaKoto
     text: >-
@@ -32,7 +35,10 @@ sections:
       commonly held in the end cap like a zheng but is not enclosed in a box.
       See the second picture for an example.
   - lightbox:
-      - caption: "80-string koto made by Mitsuya Koto for Miyagi Michio, circa 1929.\r\n\nImage from [Miyagi Michio Koto Association](https://www.miyagikai.gr.jp/eng-michio)"
+      - caption: >-
+          80-string koto made by Mitsuya Koto for Miyagi Michio, circa 1929.
+          Image from [Miyagi Michio Koto
+          Association](https://www.miyagikai.gr.jp/eng-michio)
         image: /img/80-string-koto-miyagi-michio_compressed.jpg
         target: 80stringkoto
     text: >-
