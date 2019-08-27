@@ -1,6 +1,6 @@
 ---
 title: Japanese Koto
-teaser: 'X String, Year original, etc.'
+description: 'X String, Year original, etc.'
 sections:
   - lightbox:
       - caption: "From the [Museum of Fine Arts](http://www.mfa.org/collections/object/zither-koto-446207), Boston, MA, USA.\r\n\nUsed under Fair Use exception of US Copyright law."
