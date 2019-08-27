@@ -1,7 +1,7 @@
 ---
 title: Japanese Koto
 description: 'X String, Year original, etc.'
-image: /img/mfa-koto_compressed.jpg
+headerimage: /img/mfa-koto_compressed.jpg
 sections:
   - lightbox:
       - caption: "From the [Museum of Fine Arts](http://www.mfa.org/collections/object/zither-koto-446207), Boston, MA, USA.\r\n\nUsed under Fair Use exception of US Copyright law."
@@ -43,3 +43,4 @@ sections:
       exception to this is the incredible 80-string variant made by Mitsuya Koto
       for Miyagi Michio, a renowned koto player.
 ---
+
