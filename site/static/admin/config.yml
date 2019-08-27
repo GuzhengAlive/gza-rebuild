@@ -66,10 +66,10 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "text"}
-          - label: Sections
-            name: sections
-            widget: list
-            fields:
+      - label: Sections
+        name: sections
+        widget: list
+        fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Lightbox, name: lightbox, widget: list, fields: [
                         {label: "Image", name: "image", widget: "image"},
