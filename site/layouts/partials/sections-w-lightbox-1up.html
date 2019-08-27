@@ -14,8 +14,9 @@
 			{{ range .lightbox}}
 				<a class="lightbox mb3" href="#{{.target}}" id="{{.target}}2">
 					 <img src="{{.image}}" class="mw8 db center"/>
+					 </a>
 					 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
-				</a>
+
 				<div class="lightbox-target" id="{{.target}}">
 					<span class="helper"></span>
 					 <p>{{.caption | markdownify}}</p>
