@@ -114,7 +114,7 @@ groups:
     text: |-
       [Guzheng Styles](/guzhengs-styles)
 
-      Similar Instruments from Around the World
+      [Similar Instruments from Around the World](/similar-instruments)
 
       [Virtual Instruments and Software](/virtual-instruments)
   - title: How it's Made
