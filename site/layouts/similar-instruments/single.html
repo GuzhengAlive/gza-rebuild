@@ -9,8 +9,8 @@
       {{end}}
       </div>
       {{ partial "sections-w-lightbox-1up" .Params }}
-      {{ if .Params.videos }}
-        {{ range $element := .Params.videos }}
+      {{ if .Params.sections.videos }}
+        {{ range $element := .Params.sections.videos }}
           {{ partial "youtube-embed" $element }}
         {{end}}
       {{ end }}
