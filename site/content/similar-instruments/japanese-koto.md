@@ -1,5 +1,5 @@
 ---
-title: Japanese Koto
+title: 'Japanese Koto (箏, こと, or alternatively 琴)'
 description: 'X String, Year original, etc.'
 headerimage: /img/mfa-koto_compressed.jpg
 sections:
