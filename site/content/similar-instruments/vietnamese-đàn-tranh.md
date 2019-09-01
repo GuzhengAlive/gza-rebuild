@@ -1,6 +1,6 @@
 ---
-title: Vietnamese Đàn tranh
-description: 'Vietnam, 17 strings, When?'
+title: Vietnamese Đàn Tranh (đàn thập lục or 彈箏)
+description: 'Vietnam, 17 strings, Before 13th Century'
 headerimage: /img/case-antiques-dantranh_compressed.jpg
 sections:
   - lightbox:
