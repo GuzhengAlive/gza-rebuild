@@ -29,12 +29,11 @@
 			 </div>
 			  {{end}}
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
-
-
-
+{{ if .videos }}
+	{{ range $element := .videos }}
+		{{ partial "youtube-embed" $element }}
+	{{end}}
   </div>
-
-
 	</div>
 </div>
 {{end}}
