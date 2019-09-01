@@ -48,5 +48,13 @@ sections:
       13-string instrument. The larger morphology remains steady. The one
       exception to this is the incredible 80-string variant made by Mitsuya Koto
       for Miyagi Michio, a renowned koto player.
+
+
+      Below are videos of both a 25-string koto and a koto ensemble playing
+      13-string instruments. Look carefully in the background and you'll see a
+      few variants behind the performers.
+    videos:
+      - youtubecode: JDTp_YQizqE
+      - youtubecode: HmY1WieykpE
 ---
 
