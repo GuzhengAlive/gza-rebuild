@@ -1,11 +1,16 @@
 {{ define "main" }}
+
+  <div class="mw8 center ph3 pv4">
     <p class="f1 lh-title b mb3">Similar Instrument</p>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <div class="flex justify-between grey-3">
+    </div>
 <p>{{ .Description }}</p>
       <div class="tc">
       {{ range $element := .Params.sections }}
       	{{ partial "jump-to-menu" $element }}
       {{end}}
+      </div>
       {{ partial "sections-w-lightbox-1up" .Params }}
       {{ if .Params.videos }}
         {{ range $element := .Params.videos }}
