@@ -1,6 +1,6 @@
 ---
 title: Korean Gayageum (가야금 or 伽倻琴)
-description: '12-string, 25-string, from ~500-562 CE'
+description: 'Gaya Confederacy, 12-string, 25-string, from ~500-562 CE'
 headerimage: /img/gayageum.jpg
 sections:
   - lightbox:
