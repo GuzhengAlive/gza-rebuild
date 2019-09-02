@@ -25,12 +25,12 @@ sections:
 
 
       For a wonderful photo I don't have license to, please check out renowned
-      photographer Tom Kelly's Photos from the [2016 Nadaam
+      photographer Thomas Kelly's Photos from the [2016 Nadaam
       Festival](https://www.thomaslkellyphotos.com/STOCK/MONGOLIA/MONGOLIA-2016/i-gzfgBTT/A).
 
 
       Various photographs show some players on thin, 13-string long zithers that
-      look quite similar to the Korean Gayageum. I unfortunatley don't know more
+      look quite similar to the Korean Gayageum. I unfortunately don't know more
       other than to say it could be something like this [Mongolian Store's
       instrument](https://mongolianstore.com/product/zither/).
     videos:
