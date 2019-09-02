@@ -61,7 +61,7 @@ groups:
     text: |-
       [Fingerpicks](/finger-picks)
 
-      Fingerpick Materials
+      [Fingerpick Materials](/pick-materials)
 
       [Identifying Turtle Shell](/identify-turtle-shell)
 
