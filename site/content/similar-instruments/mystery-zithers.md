@@ -19,6 +19,36 @@ sections:
           Used with permission.
         image: /img/unknownzithergermany_compressed.jpg
         target: unknownzither
-    text: "Here's a strange one. This was taken at the Museum für Musikinstrumente der Universität Leipzig, in Leipzig, Germany. It appears to have 9 strings tied in the fashion of a koto. That is, the strings are left long and bundled on the tail, typically in loops. The tail is on the right side. The instrument is standing on its head, though I've rotated it here. The extra length of string is now hanging down the instrument.\r\n\n\r\n\nKoto strings were left long to deal with silk strings breaking frequently. Since they'd usually break where they were played, by the head, you could pull the string towards the head until the break was even with your tying point, and tie it off again. \r\n\n\r\n\nBecause of that extra length and tie pattern I'll suggest the strings are silk. I don't know why else they would have so much extra. As to date made or country of origin, I haven't the slightest idea. The significant curvature suggests it could have been played with a bow either laying flat or standing vertically on a surface."
+    text: >-
+      Here's a fun one. This was taken at the Museum für Musikinstrumente der
+      Universität Leipzig, in Leipzig, Germany. My current guess is a type of
+      Korean zither called a Ajaeng. Those have 9 strings, made of silk, and are
+      strongly rounded because they are played with a bow. 
+
+
+      Back when I first wrote this in 2017 I hadn't heard of the Ajaeng, so
+      enjoy a historical taste of my confusion:
+
+
+      > It appears to have 9 strings tied in the fashion of a koto. That is, the
+      strings are left long and bundled on the tail, typically in loops. The
+      tail is on the right side. The instrument is standing on its head, though
+      I've rotated it here. The extra length of string is now hanging down the
+      instrument.
+
+      >
+
+      > Koto strings were left long to deal with silk strings breaking
+      frequently. Since they'd usually break where they were played, by the
+      head, you could pull the string towards the head until the break was even
+      with your tying point, and tie it off again. 
+
+      >
+
+      > Because of that extra length and tie pattern I'll suggest the strings
+      are silk. I don't know why else they would have so much extra. As to date
+      made or country of origin, I haven't the slightest idea. The significant
+      curvature suggests it could have been played with a bow either laying flat
+      or standing vertically on a surface.
 ---
 
