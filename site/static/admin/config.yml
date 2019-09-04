@@ -798,7 +798,7 @@ collections: # A list of collections the CMS should be able to edit
                           {label: "Title", name: "sourcetitle", widget: "string", required: false},
                           {label: "Link", name: "sourcelink", widget: "string", required: false},
                           {label: "Year", name: "year", widget: "string", required: false},
-                          {label: "Citation", name: "sourcecitation", widget: "string", required: false}
+                          {label: "Citation", name: "sourcecitation", widget: "string", required: false},
                           {label: "Description", name: "soucedescription", widget: "mardown", required: false}]}
       - file: "site/content/special-thanks/_index.md"
         label: "Special Thanks"
