@@ -5,11 +5,55 @@ sections:
   - subsection:
       - subsectiontext: "Nails, picks, or plectra are a big part of playing guzheng. The design and material change the sound the instrument produces. Below we will look at what materials guzheng nails are made of. Due to quality differences it is difficult to say that one material is better than any other but there are certain trends.\r\n\n\r\n\nMost modern finger picks are made either from a type of polymer (plastic) or turtle shell.  Both are relatively recent inventions. Master players spoke of playing without picks or using metal, bone, or ivory picks for much of their lives. Turtle shell came in to vogue because it is a hard material that polishes smooth, can be worked with relative ease, and is associated with concepts of luxury and artistry. Unfortunately so many sea turtles have been killed for their shells that the populations are in steep decline. If demand keeps up we won’t have turtles left. As members of this community we should use other materials for our nails. Thankfully, there are many choices.\r\n\n\r\n\nPlastics are a relatively new class of materials whose hardness, density, and workability can be customized. They are also far easier and cheaper to mass produce. They are less prone to wear than bamboo and lighter than stone.  They can be colored to any hue, stamped with meaningful symbols, or mixed with other materials to some interesting results.\r\n\n\r\n\nMetal is a choice as well, often coming with the advantage of being shaped into rings that one can wear without tape. Still other materials are possible as most any hard material can be used. Never before have guzheng players had this much choice!"
   - heading: Plastic
+    subsection:
+      - subsectiontext: >-
+          Covers a whole range of materials. Includes names and labels such as
+          ABS, Acetate, Cellulose, and Nylon. These are man made materials. Be
+          aware: Plastic nails are often shipped with a small amount of
+          lubricant on them. You’ll want to wash the nails in a warm soap and
+          water before using them.
+      - caption: >-
+          Two sizes of Dunhuang-branded nails. While not particularly
+          impressive, the blue backing card doubles as nail storage which is a
+          nice touch.
+        image: /img/plastic-dunhuang-guzheng-nails.jpg
+        subheading: ABS Plastic
+        subsectiontext: >-
+          A man-made material famous for being incredibly workable thanks to a
+          glass transition temperature just a bit warmer than boiling water.
+          Think of glass transition temperature as where a plastic becomes
+          workable, but hasn’t fully melted.
+        target: dunhuangnails
+      - subheading: Acetate and/or cellulose
+        subsectiontext: "Cellulose, Acetate, or Cellulose-Acetate most likely refers to nails made of an acetate of cellulose. Cellulose is a material that gives plants structure. It can either be extracted from plants or produced separate from them. We are used to referring to cellulose-derived materials as “plastic” - plastic wrap is one example. \r\n\n\r\n\nAcetate is a class of materials that all have a similar chemical composition. We often refer to them as “plastic” as well. Put the two words together and you get an acetate that is made from cellulose."
+      - caption: Nylon guzheng nails.
+        image: /img/nylon-guzheng-nails.jpg
+        subheading: Nylon
+        subsectiontext: >-
+          A class of material invented in the 1930s. Dupont created Nylon 6,6
+          and IG Farben created Nylon 6. You may see these company’s names
+          associated with the nail material. Nylon 6,6 is commonly used to
+          produce fibers while Nylon 6 is used in industrial applications; both
+          are capable of being used as nails.
+        target: nylonnails
   - heading: Other Materials
     subsection:
-      - {}
-      - {}
-      - subheading: Ox Horn
+      - subsectiontext: >-
+          Nails can be made out of most any hard material. Below are materials I
+          have information on. Other materials you might also find reference to
+          include:  Antler, Bone, Carbon Fiber, Glass, Jade, Seashell, and
+          various other Stone.
+      - subheading: Bamboo
+        subsectiontext: >-
+          Less common in modern times but used in historic references (Kao 2003,
+          van Gulik 1951). Likely more prone to wear and breakage than other
+          materials.
+      - subheading: Deer Teeth
+        subsectiontext: Not much information other than a passing reference in van Gulik 1951.
+      - image: /img/oxhorn-guzheng-nails.jpg
+        subheading: Ox Horn
+        subsectiontext: "Made from exactly that, the horn of domesticated cattle. Chemically similar to turtle shell, ox horn nails suffer from some limitations. They are regarded as inferior and thus, receive inferior craftsmanship. Ox horn nails are not always polished, leading to a surface that grips the strings. This unexpected resistance can slow a performer who is not ready for it. They have a reputation for cracking from extended use. \r\n\n\r\n\nEnriched, hardened, or otherwise treated horn may perform as well as turtle shell picks, but such nails are hard to find."
+        target: oxhorn
       - subheading: Metal
         subsectiontext: >-
           Metal nails can be taped to the finger like other materials or they
