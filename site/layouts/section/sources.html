@@ -5,7 +5,5 @@
 	{{ partial "jump-to-menu" $element }}
 {{end}}
 </div>
-	{{ range $element := .Params.sections }}
-		{{ partial "basic-sections" $element }}
-	{{end}}
+		{{ partial "sourcecitations" .Params }}
 {{ end }}
