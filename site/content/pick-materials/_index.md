@@ -5,7 +5,8 @@ sections:
   - subsection:
       - subsectiontext: "Nails, picks, or plectra are a big part of playing guzheng. The design and material change the sound the instrument produces. Below we will look at what materials guzheng nails are made of. Due to quality differences it is difficult to say that one material is better than any other but there are certain trends.\r\n\n\r\n\nMost modern finger picks are made either from a type of polymer (plastic) or turtle shell.  Both are relatively recent inventions. Master players spoke of playing without picks or using metal, bone, or ivory picks for much of their lives. Turtle shell came in to vogue because it is a hard material that polishes smooth, can be worked with relative ease, and is associated with concepts of luxury and artistry. Unfortunately so many sea turtles have been killed for their shells that the populations are in steep decline. If demand keeps up we won’t have turtles left. As members of this community we should use other materials for our nails. Thankfully, there are many choices.\r\n\n\r\n\nPlastics are a relatively new class of materials whose hardness, density, and workability can be customized. They are also far easier and cheaper to mass produce. They are less prone to wear than bamboo and lighter than stone.  They can be colored to any hue, stamped with meaningful symbols, or mixed with other materials to some interesting results.\r\n\n\r\n\nMetal is a choice as well, often coming with the advantage of being shaped into rings that one can wear without tape. Still other materials are possible as most any hard material can be used. Never before have guzheng players had this much choice!"
   - heading: Plastic
-    text: >-
+    subsection:
+    - subsectiontext: >-
       Covers a whole range of materials. Includes names and labels such as ABS,
       Acetate, Cellulose, and Nylon. These are man made materials. Be aware:
       Plastic nails are often shipped with a small amount of lubricant on them.
@@ -14,7 +15,7 @@ sections:
   - caption: >-
       Two sizes of Dunhuang-branded nails. While not particularly impressive,
       the blue backing card doubles as nail storage which is a nice touch.
-  imageUrl: /img/plastic-dunhuang-guzheng-nails.jpg
+ imageUrl: /img/plastic-dunhuang-guzheng-nails.jpg
     subheading: ABS Plastic
     subsectiontext: >-
       A man-made material famous for being incredibly workable thanks to a glass
