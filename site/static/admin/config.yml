@@ -795,7 +795,7 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
             - {label: Source, name: source, widget: list, fields: [
-                          {label: "Title", name: "sourcetitle", widget: "string", required: false}
+                          {label: "Title", name: "sourcetitle", widget: "string", required: false},
                           {label: "Link", name: "sourcelink", widget: "string", required: false},
                           {label: "Year", name: "year", widget: "string", required: false},
                           {label: "Citation", name: "sourcecitation", widget: "string", required: false}
