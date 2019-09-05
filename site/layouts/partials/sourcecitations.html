@@ -8,14 +8,14 @@
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
 
 {{range .source}}
-<p>{{.sourceyear}}</p>
+<p>{{.year}}</p>
 {{if .link}}
 <p><a href="{{.link}}">{{.sourcetitle}}</a>{{.citation}}</p>
 {{else}}
 <p>{{.sourcetitle}}{{.citation}}</p>
 {{end}}
 
-<p>{{.sourcedescription | markdownify}}</p>
+<p>{{.description | markdownify}}</p>
 {{end}}
 		</div>
 		{{end}}
