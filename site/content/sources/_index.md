@@ -7,7 +7,10 @@ sections:
     text: "Before we get into some summaries, check out how some of these sources have impacted each other over time. Some bodies of work are cited by almost everyone: Tsai-Ping Liang, Cao Zheng, and Te-Yuan Cheng have bodies of work that appear in most every source I reference. Their perspectives continue to have direct and indirect influence on how we think and talk about the instrument today.\r\n\n\r\n\nOthers such as my beloved Ferguson, Kwok, and Kao have not been cited by the later works I've so far compiled. While they each have their own contributions I don't believe they have been assimilated into the general body of guzheng knowledge.\r\n\n\r\n\nChen, Cheng, and Han, on the other hand, continue to influence today's understandings. While this diagram ends with Han 2013, her paper's statistics show 3300 downloads since publication with 2000 downloads heading to Beijing in 2016 and 2017. That suggests her work is being actively considered. \r\n\n\r\n\nI made this chart to help us keep in mind: If all the sources cite the works of Te-Yuan Cheng, how much of those later works are repeating his conclusions and how much are they challenging and enhancing? It would be wonderful to make a diagram with the many, many non-English sources but current logistics prevent me from doing so. Email me if you are up to the challenge.  \r\n\n\r\n\nOn to the Sources!\n\nBelow are noteworthy sources I've read and summarized. Researched sources you can view online, printed sources you have to buy or borrow, and websites are sorted out. Citations for these and all other sources are available on the Bibliography and Further Reading pages."
   - heading: 'Professional, Free, and Electronic:'
     source:
-      - soucedescription: >-
+      - citation: >-
+          Master's thesis, Gaywood, Harriet Rosemary Ann (1996) Durham
+          University.
+        description: >-
           An accessible introduction to the topic and the first I read, Gaywood
           is unfortunately plagued with issues. Its limited array of citations
           suggests uneven coverage of the topic, its coverage of both the qin
@@ -18,10 +21,7 @@ sections:
           to cross reference translations and sources. We can only do our best
           with what we have, but in this case I'm afraid the restrictions proved
           too much.
-        sourcecitation: >-
-          Master's thesis, Gaywood, Harriet Rosemary Ann (1996) Durham
-          University.
-        sourcelink: 'http://etheses.dur.ac.uk/4894/'
+        link: 'http://etheses.dur.ac.uk/4894/'
         sourcetitle: >-
           Guqin and Guzheng: the historical and contemporary development of two
           Chinese musical instruments
