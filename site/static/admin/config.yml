@@ -567,6 +567,8 @@ collections: # A list of collections the CMS should be able to edit
                         {label: "Target", name: "target", widget: "string"},
                         {label: "Caption", name: "caption", widget: "markdown"}]}
             - {label: Text, name: text, widget: markdown, required: false}
+            - {label: "Videos", name: videos, widget: list, fields: [
+                        {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
       - file: "site/content/guzheng-woods/_index.md"
         label: "Guzheng Woods"
         name: "guzhengwoods"
