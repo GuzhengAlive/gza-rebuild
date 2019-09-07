@@ -569,6 +569,12 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Text, name: text, widget: markdown, required: false}
             - {label: "Videos", name: videos, widget: list, fields: [
                         {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
+            - {label: Subsection, name: subsection, widget: list, fields: [
+                        {label: "Subheading", name: "subheading", widget: "string", required: false},
+                        {label: "Image", name: "image", widget: "image", required: false},
+                        {label: "Target", name: "target", widget: "string", required: false},
+                        {label: "Caption", name: "caption", widget: "string", required: false},
+                        {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
       - file: "site/content/guzheng-woods/_index.md"
         label: "Guzheng Woods"
         name: "guzhengwoods"
