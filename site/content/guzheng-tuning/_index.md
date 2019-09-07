@@ -70,6 +70,87 @@ sections:
     text: "These charts and diagrams were built by shifting a full sized instrument from the Key of D to each of the other keys and recording their positions. The original Key of D was tuned based on Carol Chang’s Tuning Document. Her and therefore these charts are designed for lower tensions. They are easier to play and less prone to breaking strings. The Dunhuang company suggests adults play with bridges about 2 cm further to the left, demanding a substantially higher tension. This offer more control of embellishments but requires extra care when tuning to avoid breaking strings.\r\n\n\r\n\n Some string tensions had to be adjusted when moving between certain keys which is not best practice. Then again, most instruments will not be moved through 7 keys in a single sitting. \r\n\n\r\n\nYour instrument’s length, bridge height, strings, and tension preferences will lead to different distances. Feel free to send your own measurements in and we’ll compile them! For a chart of specific frequencies, see this Piano Key Frequencies file from Vibrationdata.com."
   - heading: Tuning Step by Step
     lightbox: []
+    subsection:
+      - subheading: '1: Check bridge placement'
+        subsectiontext: >-
+          Bridges need to be placed in a recurring pattern of groups of three
+          and two. Think of those spaces as where you would put bridges if we
+          had strings for notes 4 and 7 in our octaves. If we had those extra
+          strings our bridges would fill those gaps, slowly getting farther
+          apart as they go to the bass notes of the instrument. But, since we
+          use the pentatonic scale and don't have designated strings for 4 and
+          7, we end up with these groups of three and two. 
+
+
+          This grouping does 4 important things. 1) It gives you a visual cue to
+          remember which string sounds which note, 2) informs you which key the
+          instrument is tuned in, 3) provides the physical space to change keys,
+          and 4) provides a guide for how much to shift the bridges when
+          changing keys.
+
+
+          Deciding where to place bridges can be done two ways. The easiest is
+          to use a table of approximate values, several of which are provided
+          above. Place a bridge according to the chart, put it underneath the
+          string, and continue with this guide. This is especially useful if you
+          rarely or never change keys.
+
+
+          Alternatively, you can set the spacing manually. I highly recommend
+          setting bridge spacing manually. It will give you a greater comfort
+          with your instrument, increase your understanding of keys, their
+          relationships to each other, the bridge placements required to reach
+          them, and, if done properly, minimize the amount of adjustments you
+          will need to make to string tensions when changing keys. A complete
+          guide is at the end of this page as it is its own tuning process.
+          Check it out.
+
+
+          Back to Step 1: For a 21-stringed instrument tuned in the Key of G,
+          you'll want your bridges positioned something like this:
+      - subheading: '2: Pre-tightening Strings'
+        subsectiontext: >-
+          If the strings are newly strung or you loosened them before arranging
+          the bridges, lift each string above each movable bridge and tighten
+          the string until it touches the bridge.   Lifting the string up allows
+          you to tighten and loosen the string without fear of breaking it. 
+          Strings break during tuning because tension concentrates around the
+          movable bridge; lifting allows the tension to equalize across the
+          entire string.
+
+
+          Once strings are tight to the bridge tip and resist your lift, it is
+          time to check the pitch.
+      - subheading: '3: Check pitch'
+        subsectiontext: >-
+          Using your tuning device, check each string's pitch by plucking its
+          right side. The left side is not tuned.
+      - subheading: '4: Tighten or loosen strings in small increments'
+        subsectiontext: >-
+          Lift the string a small distance above the bridge to balance the
+          string's tension, replace it, and then make the appropriate adjustment
+          using the tuning pins. DO NOT change a string's pitch by more than a
+          half step between lifts. Forcing large changes breaks strings.
+      - subheading: '5: Move bridges for fine adjustment'
+        subsectiontext: >-
+          Once the pitch is close, say off by 20 cents or less, lift the string
+          and move the movable bridge itself. Move it to the right to increase
+          the pitch, and to the left to decrease pitch.  
+
+
+          And there you go! If the temperature changes or you play vigorously
+          enough, you'll have to move the bridges slightly to retune it. Get
+          comfortable with the process. With a little practice you need never
+          fear breaking a string again.
+
+
+          Note: Brand new strings take a few turnings to settle in. Use the
+          tuning wrench to tighten the strings as needed, using the lift
+          technique while keeping the bridges where they are. Once the strings
+          are settled, a process that typically takes 2 weeks of daily turnings,
+          you can resume moving bridges for fine adjustments. If you try to move
+          bridges to settle new strings you'll end up with bridges all over the
+          place.
     text: >-
       1. Check bridge placement
 
@@ -137,7 +218,7 @@ sections:
       until it touches the bridge.   Lifting the string up allows you to tighten
       and loosen the string without fear of breaking it.  Strings break during
       tuning because tension concentrates around the movable bridge; lifting
-      allows the tention to equalize across the entire string.
+      allows the tension to equalize across the entire string.
 
 
       Once strings are tight to the bridge tip and resist your lift, it is time
