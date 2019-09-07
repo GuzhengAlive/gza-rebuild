@@ -109,6 +109,7 @@ sections:
           Back to Step 1: For a 21-stringed instrument tuned in the Key of G,
           you'll want your bridges positioned something like this:
       - image: /img/g-key-tuning-spacing.jpg
+      - image: ''
         subheading: '2: Pre-tightening Strings'
         subsectiontext: >-
           If the strings are newly strung or you loosened them before arranging
