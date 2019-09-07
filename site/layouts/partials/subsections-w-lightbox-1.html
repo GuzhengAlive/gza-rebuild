@@ -27,6 +27,11 @@
 			 </div>
 				{{end}}
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
+{{ if .videos }}
+	{{ range $element := .videos }}
+		{{ partial "youtube-embed" $element }}
+	{{end}}
+	{{end}}
 {{range .subsection}}
 			<div class="mhn2-ns mb3">
 				<h3 class="f4 b lh-title mb1">{{.subheading}}</h3>
@@ -45,11 +50,6 @@
 <p>{{.subsectiontext | markdownify}}</p>
 			 </div>
 			  {{end}}
-				{{ if .videos }}
-					{{ range $element := .videos }}
-						{{ partial "youtube-embed" $element }}
-					{{end}}
-					{{end}}
 			  </div>
 	</div>
 </div>
