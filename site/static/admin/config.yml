@@ -74,7 +74,7 @@ collections: # A list of collections the CMS should be able to edit
                     {label: "Image", name: "image", widget: "image"},
                     {label: "Target", name: "target", widget: "string"},
                     {label: "Caption", name: "caption", widget: "markdown"}]}
-        - {label: "lightbox width", name: "lightwidth" widget: "select", options:[
+        - {label: "lightbox width", name: "lightwidth", widget: "select", options:[
                     {label: "1", value: "mw8" }
                     {label: "2", value: "w-50" }
                     {label: "3", value: "w-30" }
