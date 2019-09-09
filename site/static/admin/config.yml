@@ -89,7 +89,7 @@ collections: # A list of collections the CMS should be able to edit
                     {label: "Target", name: "target", widget: "string", required: false},
                     {label: "Caption", name: "caption", widget: "string", required: false},
                     {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
-      - {label: "Type", name: "type" widget: "select", options:[
+      - {label: "Type", name: "type", widget: "select", options:[
             {label: "Books", value: "1" },
             {label: "Tuners", value: "2" },
             {label: "Tape", value: "3" }]}
