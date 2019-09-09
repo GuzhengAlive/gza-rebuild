@@ -75,10 +75,10 @@ collections: # A list of collections the CMS should be able to edit
                     {label: "Target", name: "target", widget: "string"},
                     {label: "Caption", name: "caption", widget: "markdown"}]}
         - {label: "lightbox width", name: "lightwidth", widget: "select", options:[
-                    {label: "1", value: "mw8" }
-                    {label: "2", value: "w-50" }
-                    {label: "3", value: "w-30" }
-                    {label: "4", value: "w-25" }
+                    {label: "1", value: "mw8" },
+                    {label: "2", value: "w-50" },
+                    {label: "3", value: "w-30" },
+                    {label: "4", value: "w-25" },
                     {label: "5", value: "w-20" }]}
         - {label: Text, name: text, widget: markdown, required: false}
         - {label: "Videos", name: videos, widget: list, fields: [
@@ -90,8 +90,8 @@ collections: # A list of collections the CMS should be able to edit
                     {label: "Caption", name: "caption", widget: "string", required: false},
                     {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
       - {label: "Type", name: "type" widget: "select", options:[
-            {label: "Books", value: "1" }
-            {label: "Tuners", value: "2" }
+            {label: "Books", value: "1" },
+            {label: "Tuners", value: "2" },
             {label: "Tape", value: "3" }]}
       - {label: "Image", name: "image", widget: "image", required: false}
   - name: "similar-instrument" # Used in routes, ie.: /admin/collections/:slug/edit
