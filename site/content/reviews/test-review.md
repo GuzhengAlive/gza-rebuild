@@ -2,7 +2,10 @@
 title: Test Review
 sections:
   - heading: Overview
-    lightbox: []
+    lightbox:
+      - caption: woohoo
+        image: /img/16stringguzheng.jpeg
+        target: 16test
     lightwidth: w-50
     text: More text
 type: Books
