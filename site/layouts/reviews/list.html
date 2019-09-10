@@ -9,10 +9,7 @@
       <div class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Pages.ByTitle }}
           <div class="w-50-ns ph1-ns flex">
-            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-            	<h3 class="f4 b lh-title mb1 primary">{{ .title }}</h3>
-            	{{ if .image }}<img src="{{ .image }}" alt="{{ .title }}" />{{ end }}
-            </a>
+            {{ .Render "li-imagery" }}
         </div>
       {{ end }}
       </div>
