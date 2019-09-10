@@ -5,7 +5,7 @@ sections:
     lightbox: []
     lightwidth: w-50
     text: More text
-type: '1'
+type: Books
 image: /img/6-scales.png
 ---
 
