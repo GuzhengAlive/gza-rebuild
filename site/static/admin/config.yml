@@ -65,32 +65,32 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Type", name: "type", widget: "select", options:["Books","Tuners", "Tape"]}
       - label: Sections
         name: sections
         widget: list
         fields:
-        - {label: Heading, name: heading, widget: string, required: false}
-        - {label: Lightbox, name: lightbox, widget: list, fields: [
-                    {label: "Image", name: "image", widget: "image"},
-                    {label: "Target", name: "target", widget: "string"},
-                    {label: "Caption", name: "caption", widget: "markdown"}]}
-        - {label: "lightbox width", name: "lightwidth", widget: "select", options:[
-                    {label: "1", value: "mw8" },
-                    {label: "2", value: "w-50" },
-                    {label: "3", value: "w-30" },
-                    {label: "4", value: "w-25" },
-                    {label: "5", value: "w-20" }]}
-        - {label: Text, name: text, widget: markdown, required: false}
-        - {label: "Videos", name: videos, widget: list, fields: [
-                    {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
-        - {label: Subsection, name: subsection, widget: list, fields: [
-                    {label: "Subheading", name: "subheading", widget: "string", required: false},
-                    {label: "Image", name: "image", widget: "image", required: false},
-                    {label: "Target", name: "target", widget: "string", required: false},
-                    {label: "Caption", name: "caption", widget: "string", required: false},
-                    {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
-      - {label: "Type", name: "type", widget: "select", options:["Books","Tuners", "Tape"]}
-      - {label: "Image", name: "image", widget: "image", required: false}
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Lightbox, name: lightbox, widget: list, fields: [
+                        {label: "Image", name: "image", widget: "image"},
+                        {label: "Target", name: "target", widget: "string"},
+                        {label: "Caption", name: "caption", widget: "markdown"}]}
+            - {label: "lightbox width", name: "lightwidth", widget: "select", options:[
+                        {label: "1", value: "mw8" },
+                        {label: "2", value: "w-50" },
+                        {label: "3", value: "w-30" },
+                        {label: "4", value: "w-25" },
+                        {label: "5", value: "w-20" }]}
+            - {label: Text, name: text, widget: markdown, required: false}
+            - {label: "Videos", name: videos, widget: list, fields: [
+                        {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
+            - {label: Subsection, name: subsection, widget: list, fields: [
+                        {label: "Subheading", name: "subheading", widget: "string", required: false},
+                        {label: "Image", name: "image", widget: "image", required: false},
+                        {label: "Target", name: "target", widget: "string", required: false},
+                        {label: "Caption", name: "caption", widget: "string", required: false},
+                        {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
   - name: "similar-instrument" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Similar Instrument" # Used in the UI, ie.: "New Post"
     folder: "site/content/similar-instruments" # The path to the folder where the documents are stored
