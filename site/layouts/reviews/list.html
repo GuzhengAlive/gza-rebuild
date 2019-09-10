@@ -7,9 +7,10 @@
       {{ range .Pages.GroupByParam "type" }}
       <h2 class="f3">{{ .Key }}</h2>
       <div class="flex-ns flex-wrap mhn1-ns pa3">
+        {{.title}}
       <!--{{ range .Pages.ByParam "title" }}
           <div class="w-50-ns ph1-ns flex">-->
-            {{ .Render "li-imagery"}}
+            {{ .Render "li-imagery" }}
         <!--  </div>
       {{ end }}-->
       </div>
