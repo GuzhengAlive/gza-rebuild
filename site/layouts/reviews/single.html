@@ -1,12 +1,13 @@
 {{ define "main" }}
-
-  <div class="mw8 center ph3 pv4">
-    <h1 class="f1 lh-title b mb3">Reviews</h1>
+<div class="mw8 center ph3 pv4">
+    <p class="f1 lh-title b mb3">Reviews</p>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="cms left w-100">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}" />
-      {{ .Content }}
-      {{ if .Params.MoreImages }}<img src="{{ .Params.MoreImages }}" alt="{{ .Title }}" />{{ end }}
-    </div>
+<p>{{ .Description }}</p>
+      <div class="tc">
+      {{ range $element := .Params.sections }}
+      	{{ partial "jump-to-menu" $element }}
+      {{end}}
+      </div>
+      {{ partial "sections-w-lightbox-1up" .Params }}
   </div>
 {{ end }}
