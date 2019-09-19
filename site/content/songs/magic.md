@@ -1,6 +1,7 @@
 ---
-chinesename: 高山流水
 translations:
   - translation: High Mountains and Flowing Waters
+  - translation: High Mountain and Flowing Water
+chinesename: 高山流水
 ---
 
