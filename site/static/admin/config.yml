@@ -85,9 +85,9 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/songs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Chinese Name", name: "chinesename", widget: "string"}
       - {label: "Translations", name: translations, widget: list, fields: [
           {label: "Translation", name: "translation", widget: "string"}]}
+      - {label: "Chinese Name", name: "chinesename", widget: "string"}
       - {label: "Region", name: "region", widget: "text", required: false}
       - {label: "Year", name: "year", widget: "text", required: false}
       - {label: "School", name: "school", widget: "text", required: false}
