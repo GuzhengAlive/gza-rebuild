@@ -677,6 +677,20 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Image, name: imageURL, widget: image}
                   - {label: Target, name: target, widget: string}
                   - {label: Caption, name: caption, widget: text, required: false}
+      - file: "site/content/imagery-and-figures/_index.md"
+        label: "List of Figures and Photographs"
+        name: "figures"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Image, name: image, widget: image}
+          - {label: Image Credit, name: imagecredit, widget: markdown, required: false}
+          - label: Sections
+            name: sections
+            widget: list
+            fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text, name: text, widget: markdown, required: false}
       - file: "site/content/import-issues-cites/_index.md"
         label: "Import Issues Cites"
         name: "importissuescites"
