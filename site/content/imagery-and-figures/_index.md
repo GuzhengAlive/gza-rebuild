@@ -77,8 +77,11 @@ sections:
     text: "PT-1: X-ray of guzheng bridges and strings from inside of instrument. Source: GZA\r\n\n\r\n\nPT-2: Parts of a guzheng, numbers 1-8. Source: GZA\r\n\n\r\n\nPT-3: Parts of a guzheng, numbers 9-12. Source: GZA\r\n\n\r\n\nPT-4: Parts of a guzheng, numbers 13-18. Source: GZA\r\n\n\r\n\nPT-5: 3D-Diagram of guzheng rendered in Sketchup. Source: GZA"
   - heading: Strings
     text: "ST-1: Four brands of guzheng string. Same as CO-4\r\n\n\r\n\nST-2: Guzheng String Diameters, Inches. Source: GZA\r\n\n\r\n\nST-3: Guzheng String Diameters, Millimeters. Source: GZA"
-  - {}
-  - {}
-  - {}
+  - heading: About Guzheng Alive
+    text: 'GA-1: Example guzheng. Source: GZA'
+  - heading: Source Descriptions
+    text: 'SD-1: Interconnection of select cited sources. Source: GZA'
+  - heading: Reviews
+    text: "RV-1: Leukotape. Source: GZA\r\n\n\r\n\nRV-2: Cherub tuner and wrench all-in-one. Source: GZA\r\n\n\r\n\nRV-3: Clip tuner. Source: GZA\r\n\n\r\n\nRV-4: Generic Medical Tape. Source: GZA\r\n\n\r\n\nRV-5: Guzheng Pipa Tape. Source: GZA\r\n\n\r\n\nRV-6: Cherub wired clip tuner and metronome. Source: GZA\r\n\n\r\n\nRV-7: Cover of Teaching Foreigners to Play Guzheng. Source: GZA\r\n\n\r\n\nRV-8: Cover of Sound of China Guzheng Basic Tutorial. Source: ChineseZither.net, used under blanket permission."
 ---
 
