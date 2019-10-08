@@ -205,5 +205,75 @@ sections:
         link: 'http://www.luxnova.com/lnpwebstore/catalog.php?pcode=LNP-0124'
         sourcetitle: An Introduction to the guzheng
         year: '2002'
+  - heading: Websites
+    source:
+      - description: >-
+          A valuable resource and store maintained by Carol Chang, this has
+          provided the most in-depth discussion of guzheng wood sourcing I have
+          found anywhere - and kept a vibrant online community bubbling with
+          questions, answers, and new information at
+          [Guzhengforum.com](http://guzhengforum.com).  There is a commercial
+          interest in this, of course; she sells instruments and I've purchased
+          one from her.
+        link: 'https://www.chinesezither.net/'
+        sourcetitle: ChineseZither.net
+      - citation: by John Thompson
+        description: >-
+          John Thompson has devoted his life to studying and reviving the qin
+          through its original Chinese. This man is a legend. His website
+          focuses on the qin but includes mentions of the zheng when their
+          origin stories intersect. His command of Chinese and significant
+          efforts give him a greater understanding of historical records than
+          most others.
+        link: 'http://www.silkqin.com/'
+        sourcetitle: Silk Qin
+      - description: >-
+          When I found this site I shouted with excitement. They have beautiful,
+          detailed images of a variety of zhengs from throughout the ages. It's
+          very much about the beauty of the instrument. Sometimes that means
+          photographs of functional aspects of instruments are not as clear as I
+          wish they were, but what can you do. The company was established in
+          2012 specifically to showcase the instrument. From what I understand
+          they have a physical location where you can go and visit some of these
+          instruments, so if you're in Hong Kong, check them out!
+        link: 'http://hkzhengart.com/'
+        sourcetitle: HK Zheng Art
+      - citation: 'Asia for Educators, University of Columbia'
+        description: >-
+          A quick reference for different dynasties with some context. It's
+          important to remember that all of what is now China was not simply
+          passed from ruler to ruler. Borders shifted, and different groups held
+          power over different regions at different times.
+        link: 'http://afe.easia.columbia.edu/timelines/china_timeline.htm'
+        sourcetitle: Timeline of Chinese History and Dynasties
+      - citation: Royal Museum of Art and History
+        description: >-
+          Catalogue of holdings at several museums, including the Brussels
+          Musical Instrument Museum
+        link: 'http://www.carmentis.be/'
+        sourcetitle: Carmentis
+      - citation: EU-funded enterprise
+        description: >-
+          "Consortium of some of Europe’s most important musical instruments
+          museums". Overlaps with Carmentis.
+        link: 'http://www.mimo-db.eu/'
+        sourcetitle: Music Instrument Museums Online (MIMO)
+      - citation: The Europeana Foundation
+        description: >-
+          Large constellation of European institutions providing their
+          collections for digitization and distribution
+        link: 'http://www.europeana.eu/portal/en'
+        sourcetitle: Europeana Collections
+      - description: Catalog of the Met’s private collections.
+        link: 'https://www.metmuseum.org/art/collection/search/'
+        sourcetitle: The Metropolitan Museum of Art Collections Search
+      - description: >-
+          Quality index of photographs of the MFA's large collection of musical
+          instruments from around the world.
+        link: 'http://www.mfa.org/collections/musical-instruments'
+        sourcetitle: 'Museum of Fine Arts, Boston. Musical Instruments'
+    text: ''
+  - heading: A Note on Copyright and Fair Use
+    text: "It was my dream to have this website filled with rich, exclusively licensed content on every aspect of the zheng. But several weeks in I realized, unfortunately, that contacting and communicating with some rights holders would take a great deal of time and effort. While those I did contact gave unanimous permission, it became apparent that all my searching and finding was becoming an unsustainable burden. Enter: Fair Use.\r\n\n\r\n\nMost countries including the[ US](https://www.copyright.gov/fair-use/fair-index.html) and [China](http://www.wipo.int/wipolex/en/text.jsp?file_id=186569) have exemptions for information that is used to enhance the public good and does not damage the original rights holder. This is generally called \"Fair Use\". Use without permission can be considered fair use if it does not damage the normal use of the original work, does not damage the interests of others, is an action that is demonstrably for the public good, such as education, and is built upon and improved.  It is under these exemptions that GZA uses and reposts imagery and figures. GZA is an educational, non-commercial undertaking.\r\n\n\r\n\nNow what about reuse of text? Another positive wrinkle: Facts can not be copyrighted. How they are presented certainly can be, but the underlying fact is free to be repeated. As the vast majority of this website is the reporting of facts for informational purposes, and an even larger volume of it is created specifically for this effort, most of it it falls clearly within fair use. What material is directly quoted is kept to about one sentence’s length, their brevity and relevance also positioning them favorably under the Fair Use exemption.\r\n\n\r\n\nImagery was generally handled thusly:\r\n\n\r\n\n1. If the image was tied to a particular individual I asked them for permission. This is a cool project, and I would hope others would be excited to see reuse as involvement. So far, everyone I have talked to has been happy to participate!\r\n2. If the image was tied to an organization I generally did not attempt to ask for reuse permission. That's a time-saving measure for me. In trade I took pains to identify what the impact of my use would have. If it was a promotional photo from a zheng maker? My use and proper attribution could drive more people to their site and thus help their business, so educational use and reuse. If an image itself was for sale I didn't use it.\r\n3. Lastly but most importantly: regardless of how I came to the images I have cited their source (plagiarism is bad people), lowered the resolution and compressed images, assuring the owners maintain their control of the highest-quality imagery, and have attempted to link to the origin of each image. Despite all that, if you do see an image or content you have rights to and want it removed from this site, please contact me through the form at the bottom of every page.\r\n\n\r\n\nThanks for reading!\r\n\n\r\n\nSome Specific Instances:\r\n\n* Museum of Fine Arts, Boston: Reused digitally under United States Fair Use laws, as specified on their website here. Excerpt: \"Provided the source is cited, personal and educational use (as defined by fair use in US copyright law) is permitted.\"\r\n* Smithsonian Institution, Washington D.C.: Re-used digitally under United States Fair Use laws, as specified on their website here. Excerpt: \"The Smithsonian welcomes you to make fair use of the Content as defined by copyright law.\"\r\n* Flickr Images: used under the various Creative Commons Licenses listed under the images at the time of access. I also contacted each photographer and received explicit permission for this use."
 ---
 
