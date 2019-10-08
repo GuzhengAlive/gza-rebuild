@@ -2,8 +2,6 @@
 title: Contact Guzheng Alive
 logo: /img/white-background.jpeg
 contact_entries:
-  - heading: Location
-    text: 'Seattle, Bellevue, and the Puget Sound Region'
   - heading: Response Time
     text: |-
       Simple questions: within a day. 
