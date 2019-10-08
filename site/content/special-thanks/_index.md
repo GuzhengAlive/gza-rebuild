@@ -73,7 +73,7 @@ sections:
       A. Yan of Washington
 
 
-      C. Ericson. of Washington
+      C. Ericson of Washington
 
 
       L. Gho of Arizona
