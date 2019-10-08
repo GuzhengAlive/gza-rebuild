@@ -55,9 +55,19 @@ sections:
     text: "WD-1: Air-drying Paulownia Logs. Screengrab from [Mitsuya Koto](http://guzheng.mitsuyakoto.com/guzheng)'s promotional [video](https://www.youtube.com/watch?v=r8d80sVgLmY). Source: [Mitsuya Koto](http://guzheng.mitsuyakoto.com/guzheng). Used under Fair Use. \r\n\n\r\n\nWD-2: Relative Humidity vs. Equilibrium Moisture Content in woods at 70 degree F (21.1 Degrees C). Source: [The Wood Database](http://www.wood-database.com/wood-articles/wood-and-moisture/). Used under Fair Use.\r\n\n\r\n\nWD-3: Charts of changes in frequency, by Herz and Cents, of Spruce planks. Source: Martínez et. al (2011) Used under Fair Use.\r\n\n\r\n\nWD-4: Larger version of WD-1. Source: [Mitsuya Koto](http://guzheng.mitsuyakoto.com/guzheng). Used under Fair Use."
   - heading: Wood Selection
     text: 'WS-1: End of logs. Source: 364 by Grizzlybear.se, Public Domain'
-  - {}
-  - {}
-  - {}
-  - {}
+  - heading: Cypher Notation
+    text: "CN-1: Do, Re, Mi, Fa, So, La, Ti, and rest in Cypher Notation. Source: GZA\r\n\n\r\n\nCN-2: Indicating octaves in Cypher Notation. Source: GZA\r\n\n\r\n\nCN-3: Cypher notation for durations from quarter to thirty second notes. Source: GZA\r\n\n\r\n\nCN-4: Cypher notation for whole to half notes. Source: GZA\r\n\n\r\n\nCN-5: Cypher notation for rests from one quarter to one thirty second in duration. Source: GZA\r\n\n\r\n\nCN-6: Cypher notation for whole and half rests. Source: GZA"
+  - heading: Music Examples
+    text: "ME-1: \"Garyan Wong - China Spirit Music Ensemble - Oakland Asian Cultural Center Winter Gala\" Source: [\\--Mark--](https://www.flickr.com/photos/34186459@N00/16330882122/). Used under CC-BY-NC-SA 2.0\r\n\n\r\n\nME-2: 高山流水 (Gao shan liu shui/Cao sơn lưu thuỷ). Source: Youtube. Used under Fair Use.\r\n\n\r\n\nME-3: Guzheng - Fishermen's Song at Eventide 渔舟唱晚. Source: Youtube. Used under Fair Use.\r\n\n\r\n\nME-4: 戰颱風 王昌元. Source: Youtube. Used under Fair Use.\r\n\n\r\n\nME-5: 王中山古箏演奏：漢江韻 GuZheng Trio: The Charm of Han River. Source: Youtube. Used under Fair Use.\r\n\n\r\n\nME-6: 著名青年古箏演奏家沈樂、楊陽演奏《八面風》. Source: Youtube. Used under Fair Use.\r\n\n\r\n\nME-7: 千本桜 【古箏】 Senbonzakura 【Chinese Guzheng】. Source: Youtube. Used under Fair Use."
+  - heading: Repertoire
+    text: >-
+      RP-1: Gōngchěpǔ (工尺谱)  style music notation. Source:
+      "[冷暖人生](https://www.flickr.com/photos/denniswong/5873542770/)" by Dennis
+      Wong. Used under CC-BY-2.0.
+  - heading: Nail Materials
+    text: >-
+      NM-1: Endangered turtles killed for smuggling. Source:[ Naira Naija
+      News](http://www.nairanaijanews.com/2016/11/hundreds-of-tortoise-shells-intercepted.html).
+      Used under Fair Use.
 ---
 
