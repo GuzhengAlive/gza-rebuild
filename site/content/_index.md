@@ -160,13 +160,13 @@ groups:
     text: |-
       [Bibliography](/bibliography)
 
-      Descriptions
+      [Descriptions](/sources)
 
       [Further Reading](/further-reading)
 
       [Glossary](/glossary)
 
-      List of Figures
+      [List of Figures](/imagery-and-figures)
 
       [Minor Mentions](/general-mentions)
 sections:
