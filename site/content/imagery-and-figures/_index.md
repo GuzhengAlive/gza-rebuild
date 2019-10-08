@@ -69,5 +69,16 @@ sections:
       NM-1: Endangered turtles killed for smuggling. Source:[ Naira Naija
       News](http://www.nairanaijanews.com/2016/11/hundreds-of-tortoise-shells-intercepted.html).
       Used under Fair Use.
+  - heading: Identify Turtle Shell
+    text: "NI-1: Three examples of turtle shell nails. Source: GZA\r\n\n\r\n\nNI-2: Example of man-made guzheng nails, coloring discrete. Source: [viewviewbaby ebay listing](https://www.ebay.com/itm/8pcs-Small-Guzheng-Nails-Chinese-Zither-Finger-Picks-with-Storage-Case/123165731021?hash=item1cad3fe8cd:g:lkAAAOSw175cBZ5d). Used under Fair Use.\r\n\n\r\n\nNI-3: Example of man-made guzheng nails, coloring diffused. Source: [alpinetopline ebay listing](https://www.ebay.com/itm/Polished-Guzheng-Nails-Picks-Medium-for-Adult-Kids-Practice-Accessory-8PCS/302754430242?hash=item467d91fd22:g:42cAAOSw9g1cAmXw). Used under Fair Use.\r\n\n\r\n\nNI-4: Man-made guzheng nail lit by 200W bulb to reveal microcracks.  Source: GZA\r\n\n\r\n\nNI-5: Man-made guzheng nail lit to mimic what the human eye sees.  Source: GZA\r\n\n\r\n\nNI-6: Plastic guzheng nail showing layering (dark in center, clear/yellow on faces) and some hazing.  Source: GZA\r\n\n\r\n\nNI-7: Guzheng nails in ultraviolet light. Clockwise from top: nylon, ox horn, turtle shell, resin. Source: GZA\r\n\n\r\n\nNI-8: Guzheng nails in UV light with purple cast removed. Left: resin nail. Right: turtle shell nail.  Source: GZA"
+  - heading: Nail Shapes
+    text: "NS-1: Example nails with length from small to large. Source: GZA\r\n\n\r\n\nNS-2: Comparison of Flat, Single Arc, Double Arc nail shapes. Source: GZA\r\n\n\r\n\nNS-3: Comparison of No indent, concave groove, double groove nails. Source: GZA  \r\n\n\r\n\nNS-4: Comparison of nail thicknesses of 1.5mm, 2.8mm, 3mm. Source: GZA\r\n\n\r\n\nNS-5: Four different thumb nail shapes. Source: GZA"
+  - heading: Parts and Terms
+    text: "PT-1: X-ray of guzheng bridges and strings from inside of instrument. Source: GZA\r\n\n\r\n\nPT-2: Parts of a guzheng, numbers 1-8. Source: GZA\r\n\n\r\n\nPT-3: Parts of a guzheng, numbers 9-12. Source: GZA\r\n\n\r\n\nPT-4: Parts of a guzheng, numbers 13-18. Source: GZA\r\n\n\r\n\nPT-5: 3D-Diagram of guzheng rendered in Sketchup. Source: GZA"
+  - heading: Strings
+    text: "ST-1: Four brands of guzheng string. Same as CO-4\r\n\n\r\n\nST-2: Guzheng String Diameters, Inches. Source: GZA\r\n\n\r\n\nST-3: Guzheng String Diameters, Millimeters. Source: GZA"
+  - {}
+  - {}
+  - {}
 ---
 
