@@ -142,7 +142,7 @@ groups:
     text: |-
       [About Guzheng Alive](/about-gza)
 
-      Contact
+      [Contact](/contact)
 
       [Change Log](/change-log)
 
