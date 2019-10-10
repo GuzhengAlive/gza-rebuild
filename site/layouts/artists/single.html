@@ -13,10 +13,8 @@
       <div class="mv2-l">
         {{ range $element := .Params.videos }}
           {{ partial "youtube-embed" $element }}
-            {{< youtube id="{{.youtubecode}}" autoplay="true" >}}
         {{end}}
   </div>
-
       {{ end }}
     </div>
   </div>
