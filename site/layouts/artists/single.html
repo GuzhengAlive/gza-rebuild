@@ -10,11 +10,9 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fr pl3"/>{{ end }}
       {{ .Content }}
       {{ if .Params.videos }}
-      <div class="mv2-l">
         {{ range $element := .Params.videos }}
           {{ partial "youtube-embed" $element }}
         {{end}}
-  </div>
       {{ end }}
     </div>
   </div>
