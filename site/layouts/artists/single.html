@@ -1,7 +1,7 @@
 {{ define "main" }}
 
   <div class="mw8 center ph3 pv4">
-    <p class="f1 lh-title b mb3">Guzheng Expert</p>
+    <p class="f1 lh-title b mb3">Guzheng Artist</p>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
     </div>
@@ -10,9 +10,11 @@
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fr pl3"/>{{ end }}
       {{ .Content }}
       {{ if .Params.videos }}
+      <div class="mv2-l">
         {{ range $element := .Params.videos }}
           {{ partial "youtube-embed" $element }}
         {{end}}
+  </div>
       {{ end }}
     </div>
   </div>
