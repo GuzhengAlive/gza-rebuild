@@ -655,7 +655,19 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Lightbox, name: lightbox, widget: list, fields: [
+                        {label: "Image", name: "image", widget: "image"},
+                        {label: "Target", name: "target", widget: "string"},
+                        {label: "Caption", name: "caption", widget: "markdown"}]}
             - {label: Text, name: text, widget: markdown, required: false}
+            - {label: "Videos", name: videos, widget: list, fields: [
+                        {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
+            - {label: Subsection, name: subsection, widget: list, fields: [
+                        {label: "Subheading", name: "subheading", widget: "string", required: false},
+                        {label: "Image", name: "image", widget: "image", required: false},
+                        {label: "Target", name: "target", widget: "string", required: false},
+                        {label: "Caption", name: "caption", widget: "string", required: false},
+                        {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
       - file: "site/content/identify-turtle-shell/_index.md"
         label: "Identify Turtle Shell"
         name: "identifyturtleshell"
