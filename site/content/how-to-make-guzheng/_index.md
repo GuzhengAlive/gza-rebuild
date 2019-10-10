@@ -3,7 +3,7 @@ title: How to Make Guzheng
 image: /img/instrument-making-tools_compressed.jpg
 imagecredit: Instrument making tools on display at Music China 2018.
 sections:
-  - heading: ''
+  - heading: Intro
     subsection:
       - caption: Screenshot of Guzheng/Koto construction overview at MitsuyaKoto.com.
         image: /img/mitsuya-guzheng-construction-process.jpg
@@ -16,6 +16,8 @@ sections:
     text: "Guzheng are assembled from shaped pieces of wood that have been cut, dried, and heat-treated to enhance their visual and acoustic beauty. Typically the soundboard and backboard are shaped from various woods, the frame of the instrument is built in steps, and then the overall instrument is assembled. This enables the guzheng makers to balance sound quality, looks, and overall expense at different levels for different musicians.\r\n\n\r\n\nSome instrument makers like Mitsuya Koto hollow out a log to create the guzheng, frame and all. That is a work-intensive process so they produce only high-end instruments from traditionally-aged wood. They have an excellent photo overview and video showing some of the steps:"
     videos:
       - youtubecode: r8d80sVgLmY
+  - videos:
+      - youtubecode: CmGUpmZU6MM
   - heading: Guzheng Dimensions
     lightbox:
       - caption: Model and diagram of modern 21-string guzheng created by author.
@@ -28,8 +30,7 @@ sections:
           channel](http://thesoundofriver.org.au/). This video has been posted
           by multiple accounts over several years; Original producer is unclear.
     text: "Approximate dimensions of one Dunhuang-style S-Bridge 21-string guzheng are:\r\n\n\r\n\nLength 164.5cm (64 3/4 in.)\r\n\n\r\n\nWidth 32.4 cm (12 3/4 in.)\r\n\n\r\n\nHeight 24.1 cm (9.5 in. including bridges)\r\n\n\r\n\nInstruments vary by model and maker. Instrument makers change the dimensions to balance the overall size of the instrument, the tensions this will require for the strings, the volume of the resonance chamber, and the thickness of the soundboard itself."
-    videos:
-      - youtubecode: CmGUpmZU6MM
+    videos: []
   - heading: Soundboard
     lightbox:
       - caption: >-
