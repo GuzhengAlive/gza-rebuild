@@ -9,6 +9,9 @@ sections:
       - caption: Hey look a jetigen
         image: /img/1440px-jetigen.jpg
         target: jetigen
-    text: Hey the rest of the text beneath the lightbox Videos could be added below.
+    text: |-
+      Hey the rest of the text beneath the lightbox Videos could be added below.
+
+      Wait I have lightbox videos??? I think you mean just videos.
 ---
 
