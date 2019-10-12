@@ -114,6 +114,44 @@ sections:
       different designs. If you know, send me a message!
   - heading: Frame Construction
     text: "The frames of guzheng are everything that's not the sound board or backboard. The frames can use the same wood for both structure and decoration or they can use one type of wood for the structure and thin veneers for looks. The most common (and affordable) guzheng are made with an inner structure of a pine or maple and are then clad with hardwood veneers. Older instruments are more often whole hardwood frames.\n\nWhen an instrument maker advertises Sandalwood, Rosewood, or other exotic materials, they are referring to the wood used in the veneer of the frame. The impact these materials have on the sound of the instrument vary, with modern veneers having less of an effect than older whole-frame hardwoods. Head over to the Woods page to learn more about that.\r\n\n\r\n\nI have found the least information in English about the frame, so please, if you know more, send me a message through the form below and help me add this information! What I do know is that the frame provides the overall structure of the instrument, gives it strength, and contributes to the overall dimensions of the resonance cavity in its interior. \r\n\n\r\n\nFrom an art perspective, it also provides a massive canvas for all manner of artistry to be displayed."
-  - {}
+  - heading: String Posts and Tuning Pins
+    lightbox:
+      - caption: Modern guzheng tuning pin assembly. Photo by author.
+        image: /img/modern-guzheng-tuning-pins.jpg
+        target: enclosedtuningpins
+      - caption: 1980s guzheng made in Taiwan. Photo by author.
+        image: /img/twgsstringposts.jpg
+        target: exposedtuningpins
+    text: "Strings posts used to be exposed; see photograph at right of a guzheng made in that style. This design is centuries old, though this particular guzheng is made in the 1980s.\r\n\n\r\n\nThe pegs were turned by a detachable handle, which at one point was ornamented to look like a massive gate key. Nowadays modern guzheng use a right-angle tuning wrench to tighten and loosen the tuning pins. The modern wrench looks nearly identical to those used on western instruments such as harps- but traces of the old way still remain. The name of that wrench, 筝匙 (zhēng shi) , translates as \"zheng key\".\r\n\n\r\n\nThere are advantages to changing the tuning mechanism to pins inside of a compartment. Chief among them is the right-angle curve around the fixed bridge. That provides a mechanical assist that reduces the likelihood a tuning pin will loosen from play or temperature changes. Once an instrument's strings are settled in, the tuning pins can stay untouched in their compartment for hours upon hours of play, leaving tuning adjustments to the movable bridges. Exposed tuning pegs like those pictured are held in by friction, meaning any expansion of the surrounding wood can lead to the pegs rapidly unwinding."
+  - heading: Bridges
+    lightbox:
+      - caption: 'Diagram of past bridge designs, digitally rendered from Cheng 1991'
+        image: /img/guzheng-bridges-cheng-1991.jpg
+        target: guzhengbridgecheng
+      - caption: >-
+          Diagram of Tang Dynasty movable bridges stored in Japan, digitally
+          rendered from Ferguson 1979. The horizontal line on each bridge is a
+          joint; these were made in two piece, unusual today.
+        image: /img/guzheng-bridges-tang-dynasty-ferguson-1979.jpg
+        target: guzhengbridgesferguson
+    subsection:
+      - subsectiontext: "The modern bridge is typically constructed from one piece of wood with a string rest inserted at its tip. The insert material is typically bone, resin, or a combination of both. Some inserts were once made of ivory.  Buffalo bone, plastic, and imitation ivory as the most common materials used in modern bridges. Imitation ivory is probably bone powder mixed with a resin.\r\n\n\r\n\nThe insert is notched to provide a resting place for the string. The hard material helps to transmit sound from the strings while protecting the wood. Without an insert the string would wear its way into the bridge, making key changes difficult and possibly requiring bridges to be replaced over the life of the instrument.\r\n\n\r\n\nBridges typically display a vertical grain when viewed from the side. When viewed from the top they show a horizontal grain pattern."
+      - caption: >-
+          Rendering of modern guzheng bridge from Lee/Gresham 2002. Used under
+          Fair Use exemption of US Copyright Law.
+        image: /img/modern-guzheng-bridge-lee-gresham_compressed.jpg
+        subsectiontext: "The Dunhuang company offers this height guidance: \r\n\n\r\n\nBridge #’s | Height, mm\r\n\n* 1-3 | 49mm\r\n* 4-6 | 51mm\r\n* 7-9 | 53mm\r\n* 10-12 | 55mm\r\n* 13-15 | 57mm\r\n* 16-18 | 59mm\r\n* 19-21 | 61mm\n\n\n\nInteresting work is being done in China on the development of hollow ceramic bridges. The denser ceramic transmits and emphasizes different aspects of the strings’ vibrations and thus sound. Indeed, bridge makers have for centuries used different densities of woods and different sizes of string rests to strike a balanced sound transmission. Other aspects of the bridge to consider are the overall height, thickness of the legs, and the curvature of the notch cut in the string rest."
+        target: guzhengbridgelee
+      - subheading: And there you have it!
+        subsectiontext: >-
+          A brief overview of some of the considerations that go into guzheng
+          making. If you have feedback or more details and sources to share,
+          please [send in a message](#sendemail)!
+    text: >-
+      Bridges are crucial to the guzheng. They allow for fine tuning and
+      transmit the vibrations of the strings to the soundboard and resonance
+      chamber inside the instrument. Bridge shapes are many and varied. The most
+      common I have seen are roughly triangular with two feet on the soundboard
+      and the tip supporting the string.
 ---
 
