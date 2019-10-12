@@ -120,7 +120,7 @@ groups:
   - title: How it's Made
     image: /img/instrument-making-tools_compressed.jpg
     text: >-
-      How to Make
+      [How to Make](/how-to-make-guzheng)
 
 
       [3D
