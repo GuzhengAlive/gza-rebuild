@@ -83,5 +83,37 @@ sections:
     text: "Most guzheng soundboards are made from quartersawn planks of Paulownia. Read more about Paulownia and other options on the [Woods ](/guzheng-woods)page. To quartersaw a log is to cut the log into planks as in this diagram. The log is marked or cut into quarters, then the quarters are cut at 45 degree angles to the center. This maximize the amount of plank with grain patterns that are as close to straight as possible. Straight grains mean the wood is stronger and generally has more desirable characteristics.\r\n\n\r\n\nAs the planks get smaller the angle between the centerline of the board and the curve of the grain or growth ring gets farther away from perpendicular, which is farther away from that nice, straight grain. Those smaller planks can be spliced together to form a full board, but the sound they produce will be a little different. There are other ways to cut planks so that each is a large size and has nearly straight grains such as rift cutting, but that wastes a lot of wood. You can see a diagram at [Hardwood Distributors.org](http://www.hardwooddistributors.org/blog/postings/what-is-rift-sawn-lumber/).\r\n\n\r\n\nThe wood is then dried, a process also called seasoning in English. There are a few ways to do it, it's fascinating stuff! Head over to the [Wood Drying](/notes-on-wood-drying) page to learn more about those details. In brief: wood shrinks as it dries and will crack if it shrinks after it's part of an instrument. To prevent that cracking wood is dried and shrunk first and then turned into an instrument. There are different ways to do it but the end goal is the same: to get wood that is a stable size, sounds good, and will continue to sound good for years to come.\r\n\n\r\n\nOnce you have one such plank you have to shape it. Each plank is curved in two directions: Horizontally, along the width of the plank, and vertically, along the length of the plank. Cheng 1991 says curved soundboards used to be carved out of large blocks of wood. This provided exceptional sound but wasted wood. Nowadays boards are cut to a desired thickness, soaked, and then pressed into the desired curvature. A heat treatment step locks that curve into place. Cheng quotes the following numbers: Final board thicknesses are around 9mm. The horizontal radius of curvature ranges from 36cm to 45cm. The vertical or longitudinal radius of curvature ranges from 450cm to 860cm.\r\n\n\r\n\nThose radii of curvature may seem crazy, but plugging them in you get a reasonable board:"
   - heading: Backboard
     text: "The Soundboard is the curved board on the front. The Backboard is the board in the back. Older zhengs and zithers had flat backboards. During the instrument reforms of the 1950s the instrument makers found it necessary to curve backboards convex up, approximating the curve of the soundboard. They do this to limit the size of the resonance cavity. That big open space in the center of the guzheng helps amplify the sound of the plucked strings while adjusting the overall quality and characteristics of the sounds the instrument produces. As one reference relates: \"The approximate resonant pitch of the air chamber is important to the sound, determining as it does which frequency ranges will be enriched. That resonance is jointly determined... by the volume of the chamber and the size of the \\[sound holes].\" (\"[Musical Instrument Design: Practical Information for Instrument Making](https://books.google.com/books?id=zQECBAAAQBAJ&q=The+approximate+resonant+pitch#v=snippet&q=%22The%20approximate%20resonant%20pitch%22&f=false)\" by Bart Hopkin, 1996).\r\n\n\r\n\nAside from being curved, the backboard is the place where the sound holes are carved. These are needed for the amplified sound of the strings to escape and reach the audience. The shape or total surface area of the sound holes affect the pitch range the chamber resonates with and how it does so. I don't have many sources on instruments with resonance chambers or sound holes as large as the guzheng. Placement, shape, size, and total surface area of the combined holes could have different effects. Then again, perhaps after a certain point size doesn't matter. All I can say is that zhengs have had different sizes, shapes, and placements of sound holes throughout history and continue to do so today."
+  - heading: Soundposts
+    lightbox:
+      - caption: >-
+          Sound posts/bracing in 1980's 16-string metal string guzheng from
+          Taiwan with grooves in soundboard. Notice lack of vertical supports.
+          Photo by author.
+        image: /img/taiwanesezheng1bracing.jpg
+        target: twgzbracing1
+      - caption: >-
+          Sound posts/bracing in 1980's 16-string metal string guzheng from
+          Taiwan. Photo by author.
+        image: /img/taiwanesegz2bracing.jpg
+        target: twgzbracing2
+      - caption: >-
+          Sound posts/bracing in modern Dunhuang-style S-Bridge guzheng. Photo
+          by author.
+        image: /img/socgzbracing3.jpg
+        target: dunhuangsoundpost
+    text: >-
+      Inside of guzheng there are often supporting braces that sit between the
+      soundboard, sides, and backboard. They act like the sound posts found in
+      violins, supporting the soundboard and passing vibrations throughout the
+      instrument. Designs vary; guzheng carved out of a single piece of
+      Paulownia might not have them at all. The common assembled guzheng
+      typically do.
+
+
+      I'm still looking for sources on the trade-offs and purposes of these
+      different designs. If you know, send me a message!
+  - heading: Frame Construction
+    text: "The frames of guzheng are everything that's not the sound board or backboard. The frames can use the same wood for both structure and decoration or they can use one type of wood for the structure and thin veneers for looks. The most common (and affordable) guzheng are made with an inner structure of a pine or maple and are then clad with hardwood veneers. Older instruments are more often whole hardwood frames.\n\nWhen an instrument maker advertises Sandalwood, Rosewood, or other exotic materials, they are referring to the wood used in the veneer of the frame. The impact these materials have on the sound of the instrument vary, with modern veneers having less of an effect than older whole-frame hardwoods. Head over to the Woods page to learn more about that.\r\n\n\r\n\nI have found the least information in English about the frame, so please, if you know more, send me a message through the form below and help me add this information! What I do know is that the frame provides the overall structure of the instrument, gives it strength, and contributes to the overall dimensions of the resonance cavity in its interior. \r\n\n\r\n\nFrom an art perspective, it also provides a massive canvas for all manner of artistry to be displayed."
+  - {}
 ---
 
