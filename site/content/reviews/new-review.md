@@ -9,6 +9,9 @@ sections:
       - caption: Hey look a jetigen
         image: /img/1440px-jetigen.jpg
         target: jetigen
+      - caption: adding another lightbox to see how it doesn't display properly.
+        image: /img/14-string-dutch-zither.jpeg
+        target: oldzheng
     text: |-
       Hey the rest of the text beneath the lightbox Videos could be added below.
 
