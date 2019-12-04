@@ -1,6 +1,6 @@
 ---
 title: Review Title
-section: Review Section
+group: Review Section
 order: '1'
 image: /img/1440px-jetigen.jpg
 firstparagraph: 'First paragraph of review, whoopdidoo'
@@ -17,4 +17,3 @@ sections:
 
       Wait I have lightbox videos??? I think you mean just videos.
 ---
-
