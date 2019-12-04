@@ -27,7 +27,11 @@
 {{end}}
   </div>
     {{end}}
-
+		{{ if .videos }}
+			{{ range $element := .videos }}
+				{{ partial "youtube-embed" $element }}
+			{{end}}
+			{{end}}
 	</div>
 </div>
 {{end}}
