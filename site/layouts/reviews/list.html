@@ -9,7 +9,7 @@
     Have any products you would like me to review? Send me requests through the email form at the bottom of the page!
   </p>
   <ul class="">
-      {{ range .Pages.GroupByParam "group" }}
+      {{ range .Pages.GroupByParam "section" }}
       <h2 class="f3">{{ .Key }}</h2>
       <div class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range .Pages.ByParam "order" }}
