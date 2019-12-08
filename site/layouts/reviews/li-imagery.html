@@ -1,10 +1,12 @@
 <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
 	<h3 class="f4 b lh-title mb1 primary">{{ .Title }}</h3>
-	<div class="ph3-m w-25-m flex">
+	<div class="flex">
+	<div class="ph3-m w-25-m">
 		<img src="{{ .Params.image }}" alt="{{ .Params.Title }}" class="db mb2">
 	</div>
 
-	<div class="ph3-m w-75-m flex">
+	<div class="ph3-m w-75-m">
 		<p>{{.Params.firstparagraph | markdownify}}</p>
+	</div>
 	</div>
 </a>
