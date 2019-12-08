@@ -68,7 +68,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Group", name: "group", widget: "string"}
       - {label: "Order", name: "order", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: First Paragraph, name: firstparagraph, widget: markdown, required: false}
+      - {label: "First Paragraph", name: firstparagraph, widget: markdown, required: false}
       - label: Sections
         name: sections
         widget: list
