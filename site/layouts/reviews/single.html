@@ -1,7 +1,8 @@
 {{ define "main" }}
 <div class="mw8 center ph3 pv4">
-    <p class="f1 lh-title b mb3">Reviews</p>
+    <p class="f1 lh-title b mb3">Review:</p>
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    <img src="{{ .Params.image }}" alt="{{ .Params.Title }}" class="db mb2">
 <p>{{ .Params.firstparagraph | markdownify}}</p>
       <div class="tc">
       {{ range $element := .Params.sections }}
