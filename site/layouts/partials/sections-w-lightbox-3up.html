@@ -26,6 +26,7 @@
 {{end}}
   </div>
     {{end}}
+		{{ if .textbelow }}				<p>{{.text | markdownify}}</p> {{end}}
 		{{ if .videos }}
 			{{ range $element := .videos }}
 				{{ partial "youtube-embed" $element }}

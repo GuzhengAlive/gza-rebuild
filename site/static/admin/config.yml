@@ -73,12 +73,13 @@ collections: # A list of collections the CMS should be able to edit
         name: sections
         widget: list
         fields:
+            - {label: Heading, name: heading, widget: string, required: false}
+            - {label: Text Above, name: text, widget: markdown, required: false}
             - {label: Lightbox, name: lightbox, widget: list, fields: [
                         {label: "Image", name: "image", widget: "image"},
                         {label: "Target", name: "target", widget: "string"},
                         {label: "Caption", name: "caption", widget: "markdown", required: false}]}
-            - {label: Heading, name: heading, widget: string, required: false}
-            - {label: Text, name: text, widget: markdown, required: false}
+            - {label: Text Below, name: textbelow, widget: markdown, required: false}
             - {label: "Videos", name: videos, widget: list, fields: [
                       {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
   - name: "songs" # Used in routes, ie.: /admin/collections/:slug/edit
