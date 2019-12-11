@@ -7,16 +7,6 @@ public_folder: "img"
 enableRobotsTXT: true
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "artist" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Artist" # Used in the UI, ie.: "New Post"
     folder: "site/content/artists" # The path to the folder where the documents are stored
@@ -28,42 +18,42 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Videos", name: videos, widget: list, fields: [
           {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
-  - name: "expert" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Expert" # Used in the UI, ie.: "New Post"
-    folder: "site/content/guzheng-experts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "expert"
+    label: "Expert"
+    folder: "site/content/guzheng-experts"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Videos", name: videos, widget: list, fields: [
           {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
-  - name: "guzhengs-style" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Guzheng Style" # Used in the UI, ie.: "New Post"
-    folder: "site/content/guzhengs-styles" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "guzhengs-style"
+    label: "Guzheng Style"
+    folder: "site/content/guzhengs-styles"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Section", name: "section", widget: "string"}
       - {label: "Order", name: "order", widget: "string"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "new-album-releases" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Album Release" # Used in the UI, ie.: "New Post"
-    folder: "site/content/new-album-releases" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "new-album-releases"
+    label: "Album Release"
+    folder: "site/content/new-album-releases"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Release Date", name: "date", widget: "date"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "avarname", name: "avarname", widget: "string"}
       - {label: "Text", name: "text", widget: "markdown"}
-  - name: "reviews" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Reviews" # Used in the UI, ie.: "New Post"
-    folder: "site/content/reviews" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "reviews"
+    label: "Reviews"
+    folder: "site/content/reviews"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Group", name: "group", widget: "string"}
       - {label: "Order", name: "order", widget: "string"}
@@ -82,11 +72,11 @@ collections: # A list of collections the CMS should be able to edit
             - {label: Text Below, name: textbelow, widget: markdown, required: false}
             - {label: "Videos", name: videos, widget: list, fields: [
                       {label: "Youtube Video Code", name: "youtubecode", widget: "string"}]}
-  - name: "songs" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Songs" # Used in the UI, ie.: "New Post"
-    folder: "site/content/songs" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "songs"
+    label: "Songs"
+    folder: "site/content/songs"
+    create: true
+    fields:
       - {label: "English Title", name: "englishtitle", widget: "string"}
       - {label: "Other Translations", name: translations, widget: list, fields: [
           {label: "Translation", name: "translation", widget: "string"}]}
@@ -104,11 +94,11 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Recording", name: "recording", widget: "string", required: false}
       - {label: "Sources", name: sources, widget: list, fields: [
           {label: "Source", name: "source", widget: "markdown"}]}
-  - name: "similar-instrument" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Similar Instrument" # Used in the UI, ie.: "New Post"
-    folder: "site/content/similar-instruments" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+  - name: "similar-instrument"
+    label: "Similar Instrument"
+    folder: "site/content/similar-instruments"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Header Image", name: "headerimage", widget: "image", required: false}
