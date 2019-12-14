@@ -49,7 +49,24 @@ sections:
       explanations for each technique and each etude. I just wish it took things
       a little slower. Read on for more details and my very biased final note.
   - heading: Contents
-    lightbox: []
+    lightbox:
+      - caption: Table of Contents
+        image: /img/TF TOC_compressed.jpg
+        target: TFtoc
+      - caption: Charts showing different guzheng tunings on Western Staff notation.
+        image: /img/TF Solfege_compressed.jpg
+        target: TFsolfege
+      - caption: >-
+          Chart of Key Changes - one of the original points of inspiration for
+          our very own key change table!
+        image: /img/TF Key Change_compressed.jpg
+        target: TFkeychange
+      - caption: Example explanations of techniques.
+        image: /img/TF Technique_compressed.jpg
+        target: TFtechnique
+      - caption: A welcome example of the song introductions that add so much flavor.
+        image: /img/TF Music Intro 2_compressed.jpg
+        target: TFmusic
     textbelow: >-
       1 Page each (about)
 
