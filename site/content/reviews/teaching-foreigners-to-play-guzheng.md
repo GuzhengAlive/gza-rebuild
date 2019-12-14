@@ -2,6 +2,7 @@
 title: Teaching Foreigners to Play Guzheng
 group: Books
 order: '2'
+image: /img/Teaching Foreigners_compressed.jpg
 firstparagraph: >-
   Teaching Foreigners to Play Guzheng is an English-only book written by Yao
   Ningxin when she was an Associate Professor of Guzheng at Beijing Opera Art’s
