@@ -1,5 +1,12 @@
 /** Need to replace all values with global variables. **/
-
+.supernav{
+  overflow:hidden;
+}
+@media only screen and (max-width : 768px) {
+.supernav{
+    display: hidden;
+  }
+}
 .dropdown{
   position: relative;
   /**display: inline-block;
