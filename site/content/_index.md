@@ -73,7 +73,7 @@ groups:
 
       Tuners
 
-      Reviews
+      [Reviews](/reviews)
   - title: Theory
     image: /img/img_3282.jpg
     text: '[Mother Tunes and Music Theory](/mother-tunes-and-music-theory)'
@@ -86,7 +86,7 @@ groups:
 
       [New Album Releases](/new-album-releases)
 
-      Examples
+      [Examples](/guzheng-music-examples)
 
       [Schools and Styles](/guzheng-schools-and-styles)
 

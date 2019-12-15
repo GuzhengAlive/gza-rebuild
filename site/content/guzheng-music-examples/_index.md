@@ -17,7 +17,8 @@ sections:
     text: >-
       First up, music that roughly fits in the world of "Traditional". Here are
       two examples of famous, well known songs as interpreted by the fantastic
-      Wáng Zhōngshān.
+      Wáng Zhōngshān. The first is "High Mountains, Flowing River" and the
+      second is "Fisherman's Song at Eventide".
     videos:
       - youtubecode: 6-VyhDGvWBo
       - youtubecode: xuj7kY4QCr8
