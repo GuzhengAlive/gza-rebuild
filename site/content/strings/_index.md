@@ -1,6 +1,6 @@
 ---
 title: Guzheng Strings
-image: /img/white-background.jpeg
+image: /img/guzheng-strings_compressed.jpg
 sections:
   - text: >-
       Strings control a guzheng’s timbre. Modern instruments are usually strung
