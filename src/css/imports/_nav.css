@@ -2,7 +2,7 @@
 
 .dropdown{
   position: relative;
-  display: inline-block;
+  /**display: inline-block;
   /**font-family: var(--h3-font-family);
   font-size: var(--h3-font-size);
   font-style: var(--h3-font-style);
