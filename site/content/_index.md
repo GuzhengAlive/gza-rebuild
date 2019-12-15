@@ -86,7 +86,7 @@ groups:
 
       [New Album Releases](/new-album-releases)
 
-      Examples
+      [Examples](/guzheng-music-examples)
 
       [Schools and Styles](/guzheng-schools-and-styles)
 
