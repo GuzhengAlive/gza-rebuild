@@ -73,7 +73,7 @@ groups:
 
       Tuners
 
-      Reviews
+      [Reviews](/reviews)
   - title: Theory
     image: /img/img_3282.jpg
     text: '[Mother Tunes and Music Theory](/mother-tunes-and-music-theory)'
