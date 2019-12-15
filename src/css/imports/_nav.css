@@ -6,6 +6,9 @@
 .supernav{
     display: hidden;
   }
+.folderItem{
+  display: none;
+}
 }
 .dropdown{
   position: relative;
