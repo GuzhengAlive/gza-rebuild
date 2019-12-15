@@ -4,14 +4,6 @@ subtitle: Guzheng information in English
 image: /img/china-music-2018-guzheng-display.jpg
 image_credit: 'Credit: GZA'
 groups:
-  - title: Origin
-    image: /img/tomb-306-musicians-smithsonian.png
-    text: |-
-      [Guzheng in 90 Seconds](/guzheng-in-90-seconds)
-
-      [Timelines](/guzheng-timelines)
-
-      [The Story of Guzheng's Long History](/guzheng-history)
   - title: The Basics
     image: /img/usda-performer.jpg
     text: |-
@@ -74,6 +66,14 @@ groups:
       Tuners
 
       [Reviews](/reviews)
+  - title: Origin
+    image: /img/tomb-306-musicians-smithsonian.png
+    text: |-
+      [Guzheng in 90 Seconds](/guzheng-in-90-seconds)
+
+      [Timelines](/guzheng-timelines)
+
+      [The Story of Guzheng's Long History](/guzheng-history)
   - title: Theory
     image: /img/img_3282.jpg
     text: '[Mother Tunes and Music Theory](/mother-tunes-and-music-theory)'
