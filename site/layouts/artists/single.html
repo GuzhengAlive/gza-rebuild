@@ -7,7 +7,7 @@
     </div>
     <div class="cms mw8">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fr pl3"/>{{ end }}
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="fr-l pl3"/>{{ end }}
       {{ .Content }}
       {{ if .Params.videos }}
         {{ range $element := .Params.videos }}
