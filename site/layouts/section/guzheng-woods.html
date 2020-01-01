@@ -3,9 +3,7 @@
 {{ partial "jumbotron" .Params }}
 <div class="tc mw-100">
 {{ partial "jump-to-menu" .Params.sections }}
-{{ range $element := .Params.sections2 }}
-	{{ partial "jump-to-menu" $element }}
-{{end}}
+{{ partial "jump-to-menu" .Params.sections2 }}
 </div>
 	{{ range $index, $element := .Params.sections }}
 	{{ partial "basic-sections-w-blinds" $element }}
