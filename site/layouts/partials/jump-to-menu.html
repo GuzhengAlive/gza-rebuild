@@ -1,6 +1,8 @@
 <div class="di">
+{{range .sections}}
 {{if .heading}}
 	{{ $anchor := replaceRE " " "" .heading }}
 <a href="#{{$anchor}}">{{.heading}}</a> |
+{{end}}
 {{end}}
 </div>
