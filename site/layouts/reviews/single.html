@@ -5,9 +5,7 @@
     <img src="{{ .Params.image }}" alt="{{ .Params.Title }}" class="db mb2">
 <p>{{ .Params.firstparagraph | markdownify}}</p>
       <div class="tc">
-      {{ range $element := .Params.sections }}
-      	{{ partial "jump-to-menu" $element }}
-      {{end}}
+{{ partial "jump-to-menu" .Params.sections }}
       </div>
       {{ partial "sections-w-lightbox-3up" .Params }}
   </div>

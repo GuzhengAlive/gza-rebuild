@@ -4,9 +4,7 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
 <p>{{ .Description }}</p>
       <div class="tc">
-      {{ range $element := .Params.sections }}
-      	{{ partial "jump-to-menu" $element }}
-      {{end}}
+{{ partial "jump-to-menu" .Params.sections }}
       </div>
       {{ partial "sections-w-lightbox-1up" .Params }}
   </div>
