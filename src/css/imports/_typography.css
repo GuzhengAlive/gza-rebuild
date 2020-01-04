@@ -1,6 +1,5 @@
 html {
   font-size: var(--font-size);
-  text-align: center;
   @media (--breakpoint-medium) {
     font-size: var(--font-size-m);
     text-align: left;
@@ -21,6 +20,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--off-white);
  }
+
+h1, h2, h3 {
+    text-align: center;
+}
 
 p {
   margin-bottom: var(--spacing-medium);
