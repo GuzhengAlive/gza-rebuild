@@ -157,12 +157,14 @@ transition: .5s ease-in-out;
   margin: auto;
   display: inline-block;
   position: absolute;
-  left:0;
-  right:0;
+  left: 0;
+  right: 0;
   bottom: 100px;
   background: rgba(0,0,0,.7);
   color: (white);
   z-index: 2;
+  padding: 0rem, 0.5rem;
+  max-width: fit-content;
 }
 
 /* Styles the close link, adds the slide down transition */
