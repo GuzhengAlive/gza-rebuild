@@ -49,6 +49,7 @@
 	/* Lists */
 	& ul, & ol, & li {
 		position: relative;
+		margin-left: 1rem;
 	}
 
 	& ul, & ol {
@@ -56,7 +57,7 @@
 	}
 
 	& ul ul, & ol ol {
-		padding-left: var(--spacing-small);
+		padding-left: var(--spacing-medium);
 	}
 
 	& ul {
