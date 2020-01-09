@@ -150,7 +150,6 @@ box-sizing: border-box;
 -moz-transition: .5s ease-in-out;
 -o-transition: .5s ease-in-out;
 transition: .5s ease-in-out;
-z-index: 1;
 }
 
 /*Added by Guzheng Alive for  caption formatting*/
