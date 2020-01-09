@@ -6,10 +6,16 @@
   <h2 class="ph3-m f3 b lh-title mb1" id="{{$anchortarget}}">{{.heading}}</h2>
 </div>
 <div class="flex-m mhn3-m mb4">
-  <div class="ph3-m w-25-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2 center">
-    <p class="f6">{{.caption}}</p>
-  </div>
+
+  <a class="lightbox ph3-m w-25-ns" href="#{{.target}}" id="{{.target}}2">
+  			 <img src="{{.imageUrl}}"/>
+  		<p class="tc imgcaption f6">{{.caption | markdownify}}</p>
+  		</a>
+  		<div class="lightbox-target" id="{{.target}}">
+  			<p class="mw6 mw7-ns">{{.caption | markdownify}}</p>
+  			 <img src="{{.imageUrl}}"/>
+  			 <a class="lightbox-close" href="#{{.target}}2"></a>
+  		</div>
 
   <div class="ph3-m w-75-m">
     <h3 class="f4 b lh-title mb1">{{.subheading}}</h3>
