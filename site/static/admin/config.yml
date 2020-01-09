@@ -267,6 +267,13 @@ collections: # A list of collections the CMS should be able to edit
             fields:
             - {label: Heading, name: heading, widget: string, required: false}
             - {label: Text, name: text, widget: markdown, required: false}
+            - {label: Subsection, name: subsection, widget: list, fields: [
+                          {label: "Subheading", name: "subheading", widget: "string", required: false},
+                          {label: "Image", name: "image", widget: "image", required: false},
+                          {label: "Target", name: "target", widget: "string", required: false},
+                          {label: "Caption", name: "caption", widget: "string", required: false},
+                          {label: "Text", name: "subsectiontext", widget: "markdown", required: false}]}
+
       - file: "site/content/construct-scales/_index.md"
         label: "Construct Scales"
         name: "constructscales"
