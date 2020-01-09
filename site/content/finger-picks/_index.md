@@ -5,6 +5,7 @@ sections:
   - caption: Example nail length from small to large.
     heading: Size
     imageUrl: /img/nail-sizes.jpg
+    target: fingerpicksizes
     text: >-
       Nails are sold by their size (型号, xínghào). Size depends on the length of
       your middle finger’s pad, measured from the tip to your first knuckle.
@@ -47,6 +48,7 @@ sections:
   - caption: 'Left to right: Flat, Single Arc, Double Arc'
     heading: Nail Curvature
     imageUrl: /img/nail-curvature.jpg
+    target: fingerpickcurvature
     text: >-
       The next big difference between nail sets is the curvature of their
       surfaces.  You will find these and the indent below called out under
@@ -74,6 +76,7 @@ sections:
   - caption: 'Left to right: No indent, concave groove, double groove.'
     heading: Nail Indents
     imageUrl: /img/nail-indents.jpg
+    target: fingerpickindent
     text: >-
       Nails can be shaped to better fit the finger. Each shape comes with
       benefits and costs.
@@ -104,6 +107,7 @@ sections:
   - caption: 'From left to right: 1.5mm, 2.8mm, 3mm'
     heading: Thickness
     imageUrl: /img/nail-thickness.jpg
+    target: fingerpickthickness
     text: >-
       Thicker nails are less flexible, emphasize lower pitches, and are less
       prone to breaking. They are however a bit heavier and can be difficult for
@@ -139,6 +143,7 @@ sections:
   - caption: 'Four different thumb nail shapes. Not pictured: half moon type.'
     heading: Angles
     imageUrl: /img/thumb-nail-angles.jpg
+    target: fingerpickcurvature
     text: >-
       There is one other factor: The angles of the nail. Now, there is no
       standard measuring system that I know of but the end result is the same:
@@ -154,3 +159,4 @@ sections:
       looks like a crescent moon. No word on how that affects playing or their
       sound.
 ---
+
