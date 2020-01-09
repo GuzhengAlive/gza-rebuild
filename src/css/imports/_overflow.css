@@ -13,7 +13,11 @@
 .overflow-y-scroll { overflow-y: scroll; }
 .overflow-y-auto { overflow-y: auto; }
 
-.of-e {text-overflow: ellipsis;}
+.of-e {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 @media (--breakpoint-not-small) {
   .overflow-visible-ns { overflow: visible; }
