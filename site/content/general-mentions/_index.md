@@ -184,34 +184,22 @@ sections:
       you get if you type "guzheng" and some generic top level domains:
 
 
-
-
       guzheng.org: San Francisco Guzheng Music Society
 
 
-
-
-      guzheng.com: redirects to
-      http://www.chineseculture.net/guqin/instruments/guzhenglist.html, a
-      storefront. They ship out of Canada, I think.
-
-
+      guzheng.com: redirects to[ http://www.chineseculture.net/...
+      /guzhenglist.html](http://www.chineseculture.net/guqin/instruments/guzhenglist.html),
+      a storefront. They ship out of Canada, I think.
 
 
       guzheng.net: empty, parked since 2005.
 
 
-
-
       Most other combinations are empty (.info, .biz, .international, etc).
-
-
 
 
       Honorable mention: guzheng.cn - Chinese language only, but goodness is
       there a lot of guzheng going on!
-
-
 
 
       Now, what would you find if you did a general search on "guzheng"? Here's
@@ -220,13 +208,9 @@ sections:
       history).
 
 
-
-
       http://www.asza.com/Instruments/izheng.shtml - An online museum hosted by
       ASZA, a music production company whose artists include Mei Han, author of
       the 2013 thesis.
-
-
 
 
       http://www.easonmusicstore.com/categories/Guzheng/13 - Storefront for
@@ -237,35 +221,23 @@ sections:
       marketing efforts abound.
 
 
-
-
       http://www.ebay.com/bhp/guzheng - Storefront, browsing ebay listings for
       guzhengs
-
-
 
 
       http://www.philmultic.com/guzheng/ - Artist's website for Liu Fang.
       Extension of her other site, http://liufangmusic.net/English/
 
 
-
-
       http://www.soundofasia.com/info.html - Storefront.
-
-
 
 
       https://www.chinesezither.net Storefront, run by Carol Chang, whom I cited
       for her discussion of wood used in the guzheng
 
 
-
-
       http://flypaper.soundfly.com/tips/musical-tips/what-the-heck-is-a-guzheng/
       - Enthusiast site with brief introduction to the guzheng
-
-
 
 
       And after that's it's pretty much sound samples, music videos, more
