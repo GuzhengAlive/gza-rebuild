@@ -298,13 +298,8 @@ sections:
           has visible wood grains. The lining helps reduce the likelihood of
           cracks and smooths the sides, making it more pleasant to reach in when
           changing strings. They are also reinforced inside the resonance
-          chamber.
-
-
-
-
-          Th exposed grain is a way of showing off the wood, indicating it was
-          made from planks rather than plywood.
+          chamber. The exposed grain is a way of showing off the wood,
+          indicating it was made from planks rather than plywood.
         image: /img/sound hole lining.jpg
         target: SoundholeLining
       - caption: >-
