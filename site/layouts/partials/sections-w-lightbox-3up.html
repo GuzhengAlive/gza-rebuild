@@ -16,7 +16,7 @@
 	{{ range .lightbox}}
 		<a class="lightbox db mb3 w-30-ns" href="#{{.target}}" id="{{.target}}2">
 			 <img src="{{.image}}" class="w-90"/>
-		<p class="tc imgcaption f6 of-e flex-none">{{.caption | markdownify}}</p>
+		<p class="tc imgcaption f6 of-e flex-none w-90">{{.caption | markdownify}}</p>
 		</a>
 		<div class="lightbox-target" id="{{.target}}">
 			<p class="mw6 mw7-ns">{{.caption | markdownify}}</p>
