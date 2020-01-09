@@ -6,6 +6,24 @@
 				<h2 class="f3 f2-m b lh-title mb2" id="{{$anchortarget}}">{{.heading}}</h2>
 
 {{ if .text }}				<p>{{.text | markdownify}}</p> {{end}}
+{{range .subsection}}
+			<div class="mhn2-ns mb3">
+				<h3 class="f4 b lh-title mb1">{{.subheading}}</h3>
+{{if .image}}
+				<a class="lightbox mb3" href="#{{.target}}" id="{{.target}}2">
+					 <img src="{{.image}}" class="mw8 db center"/>
+					 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
+				</a>
+				<div class="lightbox-target" id="{{.target}}">
+					<span class="helper"></span>
+					 <p>{{.caption | markdownify}}</p>
+					 <img src="{{.image}}"/>
+					 <a class="lightbox-close" href="#{{.target}}2"></a>
+				 </div>
+{{end}}
+<p>{{.subsectiontext | markdownify}}</p>
+			 </div>
+			  {{end}}
 		</div>
 	</div>
 </div>
