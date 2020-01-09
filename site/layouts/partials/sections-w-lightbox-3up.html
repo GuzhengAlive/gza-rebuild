@@ -17,6 +17,8 @@
 		<a class="lightbox db mb3 w-30-ns" href="#{{.target}}" id="{{.target}}2">
 			 <img src="{{.image}}" class="w-90"/>
 		</a>
+		<p class="tc imgcaption f6">{{.caption | markdownify}}</p>
+		
 		<div class="lightbox-target" id="{{.target}}">
 			<p class="mw6 mw7-ns">{{.caption | markdownify}}</p>
 			 <img src="{{.image}}"/>
