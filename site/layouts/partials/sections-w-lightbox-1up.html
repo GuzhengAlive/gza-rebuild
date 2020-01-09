@@ -2,10 +2,10 @@
 
 <!--Pneed another field for each image to create anchors-->
 {{ range .sections}}
-<div class="pv4 mw8 center">
+<div class="pv4 mw8-m center">
 	<div class="ph3">
 
-		<div class="mhn2-m">
+		<div class="mhn2-ns">
 					{{ $anchortarget := replaceRE " " "" .heading }}
 				<h2 class="f2 b lh-title mb2" id="{{$anchortarget}}">{{.heading}}</h2>
 
@@ -13,7 +13,7 @@
 			<div class="mhn2-ns mb3">
 			{{ range .lightbox}}
 				<a class="lightbox mb3" href="#{{.target}}" id="{{.target}}2">
-					 <img src="{{.image}}" class="mw8 db center"/>
+					 <img src="{{.image}}" class="db center"/>
 					 </a>
 					 <p class="tc imgcaption f6">{{.caption | markdownify}}</p>
 
