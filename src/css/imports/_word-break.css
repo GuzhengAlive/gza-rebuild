@@ -1,6 +1,7 @@
 .word-normal { word-break: normal; }
 .word-wrap { word-break: break-all; }
 .word-nowrap { word-break: keep-all; }
+.word-break { word-wrap: break-word; }
 
 @media (--breakpoint-not-small) {
   .word-normal-ns { word-break: normal; }
