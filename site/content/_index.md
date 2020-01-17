@@ -66,7 +66,7 @@ groups:
       Tuners
 
       [Reviews](/reviews)
-  - title: Origin
+  - title: History
     image: /img/tomb-306-musicians-smithsonian.png
     text: |-
       [Guzheng in 90 Seconds](/guzheng-in-90-seconds)
@@ -233,4 +233,3 @@ sections:
       Visit the forum to read up on past discussions or email Guzheng Alive with
       questions through the form below.
 ---
-
