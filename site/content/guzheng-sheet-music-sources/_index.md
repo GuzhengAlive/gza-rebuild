@@ -1,5 +1,5 @@
 ---
-title: Sheet Music Sources
+title: Find Sheet Music Sources
 image: /img/guzheng-music-books.jpg
 sections:
   - text: >-
@@ -35,7 +35,7 @@ sections:
       * http://www.cnscore.com - general purpose, all instruments.
 
       * http://www.jianpu.cn/ - general purpose, many instruments, but written
-      in cypher notation. 
+      in cypher notation.
 
       * http://www.yueqixuexi.com/ - general purpose, all instruments.
 
@@ -128,4 +128,3 @@ sections:
       a classic, ancient song, someone took the time to write it down. They
       deserve credit for their work.
 ---
-
