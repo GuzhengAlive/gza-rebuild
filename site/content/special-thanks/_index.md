@@ -79,10 +79,19 @@ sections:
       L. Gho of Arizona
 
 
+      Dr. P.S. of Massachusetts
+
+
+      M. M. of Massachusetts
+
+
       L. Carlson of Minnesota
 
 
       L. Tereba of Washington DC.
+
+
+      C. Lam of Alberta, Canada
   - heading: Institutions
     text: >-
       There are particular institutions whose resources have proven invaluable.
@@ -100,6 +109,18 @@ sections:
 
 
       Florida State University and the helpful library staff.
+
+
+      Geigenbaumuseum, Mittenwald, Germany.
+
+
+      University of California, Los Angeles, and the helpful library staff.
+
+
+      King County Library System, King County, Washington
+
+
+      OCLC WorldCat
   - text: >-
       Some of these contributions have been minor. Some have been in the normal
       course of the person’s duties. Others have been extraordinary. Every
