@@ -6,9 +6,9 @@
   <ul class="">
       {{ range .Pages.GroupByParam "section" }}
       <h2 class="f3">{{ .Key }}</h2>
-      <div class="flex-ns flex-wrap mhn1-ns pa3">
+      <div class="flex-m flex-wrap mhn1-m pa3">
       {{ range .Pages.ByParam "order" }}
-          <div class="w-50-ns ph1-ns flex">
+          <div class="w-50-m ph1-m flex">
             {{ .Render "li-imagery"}}
           </div>
       {{ end }}
