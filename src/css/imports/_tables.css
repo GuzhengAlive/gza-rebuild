@@ -16,9 +16,6 @@ th {
   color: var(--grey-3);
   font-weight: 700;
   white-space: nowrap;
-   {
-    white-space: wrap;
-  }
 }
 
 tr th {
