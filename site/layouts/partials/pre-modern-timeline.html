@@ -3,14 +3,13 @@
 <p>{{ .kingdom }}</p>
 </div>
 <div class="flex-l mhn3-m mb4 mw8 center">
-  <div class="tc center ph3-m w-33-m" style="max-width: 350px;">
-  <p>{{ .period }}</p>
-  <p>{{ .daterange }}</p>
+  <div class="tc center ph3 w-33-m" style="max-width: 350px;">
+  <p>{{ .period }} {{ .daterange }}</p>
   {{if .image}}<img src="{{.image}}" class="w-100-m db center">
   <p class="f6">{{ .imagecredit | markdownify}}</p>{{end}}
   </div>
 
-  <div class="ph3-m w-66-m">
+  <div class="ph3 w-66-m">
     <div class="db">
     {{ if .region }}<p>Region: {{ .region }}</p> {{end}}
     {{ if .strings }}<p>Strings: {{ .strings }}</p>{{end}}
