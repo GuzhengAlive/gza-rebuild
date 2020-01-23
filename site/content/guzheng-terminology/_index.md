@@ -197,7 +197,7 @@ sections:
       <iframe
       src="https://3dwarehouse.sketchup.com/embed.html?mid=da50a2fd-5695-4540-9626-9f4800c9b1fc&width=1000&height=360"
       frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-      width="1000" height="360" allowfullscreen></iframe>
+      height="360" allowfullscreen class="w-90"></iframe>
   - caption: ''
     heading: Accessories and Details
     imageUrl: ''
