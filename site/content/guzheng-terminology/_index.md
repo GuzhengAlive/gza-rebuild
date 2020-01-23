@@ -12,6 +12,7 @@ sections:
   - caption: 'Parts of a guzheng, numbers 1-8. Diagram by author.'
     heading: Top and Body
     imageUrl: /img/parts-of-a-guzheng-1o3_compressed.jpg
+    target: topandbodyimage
     text: >-
       1) Dragon: The top of the instrument or portion by the performer (龙／龍,
       lóng). 
@@ -94,6 +95,7 @@ sections:
   - caption: 'Parts of a guzheng, numbers 9-12. Diagram by author.'
     heading: Head and Side
     imageUrl: /img/parts-of-a-guzheng-2o3_compressed.jpg
+    target: headandsideimage
     text: >-
       9) Tuning Box: The compartment in the head of the instrument where the
       tuning pegs are located (调音盒/調音盒, tiáoyīn hé)
@@ -132,6 +134,7 @@ sections:
   - caption: 'Parts of a guzheng, numbers 13-18. Diagram by author.'
     heading: Underside
     imageUrl: /img/parts-of-a-guzheng-3o3_compressed.jpg
+    target: undersideimage
     text: >-
       13) Backboard: The back panel of the instrument that helps form the
       resonating chamber (底板/底板, dǐbǎn).
