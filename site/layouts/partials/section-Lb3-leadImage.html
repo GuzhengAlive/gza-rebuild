@@ -12,7 +12,7 @@
 {{ if .text }}
 {{ if .leadimage}}
 {{range .leadimage}}
-<div class="{{.imageposition}} mh3 {{.width}}">
+<div class="{{.imageposition}}-l mh3 ph3 db center {{.width}}">
 <img src="{{.leadimageurl}}"/>
 <p class="imgcaption f6">{{.caption | markdownify}}</p>
 </div>
