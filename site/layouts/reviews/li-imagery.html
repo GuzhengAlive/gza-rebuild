@@ -2,11 +2,8 @@
 	<h3 class="f4 b lh-title mb1 primary">{{ .Title }}</h3>
 	<div class="flex">
 	<div class="ph3-m w-25-m">
-		<img src="{{ .Params.image }}" alt="{{ .Params.Title }}" class="db mb2 fl">
+		<img src="{{ .Params.image }}" alt="{{ .Params.Title }}" class="db mb2 fl-l center">
 	</div>
-
-	<div class="ph3-m w-75-m">
 		<p>{{.Params.firstparagraph | markdownify}}</p>
-	</div>
 	</div>
 </a>
