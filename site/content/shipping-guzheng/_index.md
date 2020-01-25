@@ -5,34 +5,28 @@ image: /img/guzheng-shipping-container_compressed.jpg
 sections:
   - text: >-
       Guzheng can be moved great distances with proper preparation. I've sent
-      guzheng through the mail twice and been on the receiving end six times.
-      Some of those instruments traveled over 3,000 miles through the mail.
-      Here's what I have learned.
-
-
+      guzheng through the mail three times and been on the receiving end eight
+      times. Some of those instruments traveled over 3,000 miles through the
+      mail. Here's what I have learned.
 
 
       If you already have everything you need then shipping costs would come to
-      about $150, possibly less if you aren’t shipping far. If you need to build
-      or buy a box add another $100. If you need to buy a soft case, add $50-$70
-      in the US. Hard cases aren’t usually viable as the cheapest I know of is
-      $500 before shipping. All told then you’re looking at $150 in postage and
-      up to $200 in other preparation.
-
-
+      about $150 for a coast-to-coast trip. If you need to build or buy a box
+      add another $100. If you need to buy a soft case, add $50-$70 in the US.
+      Hard cases aren’t usually viable as the cheapest I know of is $500 before
+      shipping. That sums to $150 in postage and up to $200 in other
+      preparation.
 
 
       Budget about 1-2 hours to prepare the guzheng for shipment and pack it
       properly plus the time to take it to your shipping center. Make sure you
       have someone who will receive it at the destination! Expect the guzheng to
       take about a week to ship domestically. It’s an over sized package and
-      those take longer to transport.
+      will ship via truck unless you pay for a faster trip by air.
 
 
-
-
-      Airline shipment is not feasible on paper but options may exist. See
-      below.
+      Passenger airline shipment is not officially feasible but I've heard
+      owners stowing their guzheng on planes. See below.
   - heading: Prepare Your Guzheng For Shipping
     text: >-
       1. Loosen the strings. Just a quarter turn or so should be fine.\
@@ -169,17 +163,19 @@ sections:
       Airline shipment is not feasible on paper but options exist. Most airlines
       limit oversized baggage to 80” combined dimensions. A full-sized guzheng
       in a hard case is about 67” x 8” x 14”. 67”+8”+14” = 89” combined. (Travel
-      sized come in at about 77” combined so those could work.) There are
-      reports however that some airlines will allow guzheng to be taken as
-      oversized cargo provided the passenger pays an extra fee and waives the
-      airline of responsibility for damage. Putting oversized luggage in the
-      hold will cost $75-$200 each way depending on the airline and the class
-      you are flying. At the upper end of that cost it may actually be cheaper
-      to purchase a $400 beginner guzheng and have it shipped to your
-      destination, or coordinate renting or borrowing one from the local
-      community.
+      sized come in at about 77” combined so those could work.) Community
+      members report that some airlines will allow guzheng to be taken as
+      oversized cargo provided the passenger pays an extra fee. Some have had to
+      waive the airline of any responsibility for damage. Asian airlines will be
+      more likely to have experience with guzheng. Western airlines likely
+      don't.
 
 
+      Putting oversized luggage in the hold will cost $75-$200 each way
+      depending on the airline and the class you are flying. At the upper end of
+      that cost it may actually be cheaper to purchase a $400 beginner guzheng
+      and have it shipped to your destination, or coordinate renting or
+      borrowing one from the local community.
 
 
       If putting your guzheng in the hold sounds too risky you may also be able
@@ -192,21 +188,18 @@ sections:
       rules.
 
 
-
-
       There is one last option if neither of these are the way you want to go:
       Cargo.
 
 
-
-
-      You can apply for cargo shipping privileges HOWEVER: Cargo needs to be
-      able to survive drops of 1-2 feet and pressure of 60lbs per square foot as
-      well as some exposure to the elements. A guzheng has about 5 square feet
-      of surface area so its shipping container needs to survive being pressed
-      by 300lbs for 12+ hours.  Shipping as cargo may be as cheap as $100
+      You can apply for cargo shipping privileges and ship the guzheng to
+      yourself. HOWEVER: Cargo needs to be able to survive drops of 1-2 feet and
+      pressure of 60lbs per square foot as well as some exposure to the
+      elements/being left out in the rain. A guzheng has about 5 square feet of
+      surface area so its shipping container needs to survive being pressed by
+      300lbs for 12+ hours.  Shipping as cargo may be as cheap as $100
       domestically but you’ll need a wooden shipping crate - an additional $200
-      or so, possibly more This could save you money in the long run if you
+      or so, possibly more. This could save you money in the long run if you
       travel frequently.
   - heading: Summary
     text: >-
