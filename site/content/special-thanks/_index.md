@@ -11,8 +11,8 @@ sections:
   - heading: Readers!
     text: >-
       I love the questions coming in from readers and community members! It's
-      exciting to get questions and ideas and from Europe, Asia, South america,
-      North America, so much of the world! Keep them coming!
+      exciting to get questions and ideas from so much of the world! Keep them
+      coming!
   - heading: Specific Individuals
     text: >-
       People who have directly advanced this project through collaboration,
